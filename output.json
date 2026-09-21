@@ -994,6 +994,95 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "cc-fac39f39f9",
+          "name": "Santos Laguna W vs Cruz Azul W | 08:06 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fac39f39f9",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-fac39f39f9",
+                  "name": "Santos Laguna W vs Cruz Azul W",
+                  "streams": [
+                    {
+                      "id": "st-fac39f39f9",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ebd9df999c",
+                          "name": "Chuối To HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-822ad47302",
+                          "name": "Chuối To FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nữ Mexico",
+            "team_a": "Santos Laguna W",
+            "team_b": "Cruz Azul W",
+            "logo_a": "https://media.chuoichientv.net/media/20250916_004011_bb3475cd.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_143654_72f0bbb2.png",
+            "time": "08:06:00",
+            "date": "22/09",
+            "blv": "Chuối To",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603371_2dc4f845_20260921.png?v=2dc4f845",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
