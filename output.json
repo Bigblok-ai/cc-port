@@ -460,6 +460,540 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "cc-2742a2d66d",
+          "name": "South Africa U20 vs Angola U20 | 20:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2742a2d66d",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-2742a2d66d",
+                  "name": "South Africa U20 vs Angola U20",
+                  "streams": [
+                    {
+                      "id": "st-2742a2d66d",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ebd9df999c",
+                          "name": "Chuối To HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-822ad47302",
+                          "name": "Chuối To FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "COSAFA U20 Championship",
+            "team_a": "South Africa U20",
+            "team_b": "Angola U20",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_142526_7c049a13.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_142527_5c9e4e30.png",
+            "time": "20:00:00",
+            "date": "21/09",
+            "blv": "Chuối To",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640454_fd15449c_20260921.png?v=fd15449c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-03278c5b0f",
+          "name": "Oţelul vs Corvinul Hunedoara | 22:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-03278c5b0f",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-03278c5b0f",
+                  "name": "Oţelul vs Corvinul Hunedoara",
+                  "streams": [
+                    {
+                      "id": "st-03278c5b0f",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc7b03b97a",
+                          "name": "Chuối Lá HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c3722bb96b",
+                          "name": "Chuối Lá FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Roma",
+            "team_a": "Oţelul",
+            "team_b": "Corvinul Hunedoara",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133916_1151bcde.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132655_e584855e.png",
+            "time": "22:00:00",
+            "date": "21/09",
+            "blv": "Chuối Lá",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1565259_009f63c2_20260921.png?v=009f63c2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-e276ca4f10",
+          "name": "Xorazm vs Qizilqum | 22:15 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e276ca4f10",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-e276ca4f10",
+                  "name": "Xorazm vs Qizilqum",
+                  "streams": [
+                    {
+                      "id": "st-e276ca4f10",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-829e8448da",
+                          "name": "Chuối Tây HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f9df836d1f",
+                          "name": "Chuối Tây FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Uzbekistan",
+            "team_a": "Xorazm",
+            "team_b": "Qizilqum",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_131730_66336252.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_131727_9cb5bb96.png",
+            "time": "22:15:00",
+            "date": "21/09",
+            "blv": "Chuối Tây",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1516144_c19427e4_20260921.png?v=c19427e4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-b610e7e296",
+          "name": "Eswatini U20 vs Lesotho U20 | 23:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b610e7e296",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-b610e7e296",
+                  "name": "Eswatini U20 vs Lesotho U20",
+                  "streams": [
+                    {
+                      "id": "st-b610e7e296",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0599a70c7f",
+                          "name": "Trốc Tru HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c5365f323a",
+                          "name": "Trốc Tru FULL HD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "COSAFA U20 Championship",
+            "team_a": "Eswatini U20",
+            "team_b": "Lesotho U20",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_142528_7091bd62.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_142530_173b1e20.png",
+            "time": "23:00:00",
+            "date": "21/09",
+            "blv": "Trốc Tru, Trốc Tru FULL",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640455_d17a5c9c_20260921.png?v=d17a5c9c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-e5ed4eafbf",
+          "name": "Al-Duhail SC vs Al-Arabi SC | 00:15 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e5ed4eafbf",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-e5ed4eafbf",
+                  "name": "Al-Duhail SC vs Al-Arabi SC",
+                  "streams": [
+                    {
+                      "id": "st-e5ed4eafbf",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-396b735a0c",
+                          "name": "Chuối Chao HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-49d2690e46",
+                          "name": "Chuối Chao FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "QSL Cup",
+            "team_a": "Al-Duhail SC",
+            "team_b": "Al-Arabi SC",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_130846_bd5e96a7.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130846_4cd289d0.png",
+            "time": "00:15:00",
+            "date": "22/09",
+            "blv": "Chuối Chao",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639134_8b6171f0_20260921.png?v=8b6171f0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-6a9bf5748d",
+          "name": "Petrolul Ploiesti vs Csikszereda | 01:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6a9bf5748d",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-6a9bf5748d",
+                  "name": "Petrolul Ploiesti vs Csikszereda",
+                  "streams": [
+                    {
+                      "id": "st-6a9bf5748d",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0599a70c7f",
+                          "name": "Trốc Tru HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c5365f323a",
+                          "name": "Trốc Tru FULL HD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Roma",
+            "team_a": "Petrolul Ploiesti",
+            "team_b": "Csikszereda",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133915_0d9261aa.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133920_535af99e.png",
+            "time": "01:00:00",
+            "date": "22/09",
+            "blv": "Trốc Tru, Trốc Tru FULL",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1565260_4a775c1c_20260921.png?v=4a775c1c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -733,6 +1267,95 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/992222_a6227d32_20260921.png?v=a6227d32",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-0895505621",
+          "name": "Belgium vs Czech Republic | 21:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0895505621",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-0895505621",
+                  "name": "Belgium vs Czech Republic",
+                  "streams": [
+                    {
+                      "id": "st-0895505621",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-abfd70baa3",
+                          "name": "Chuối Kem HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-dfdc991190",
+                          "name": "Chuối Kem FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vô địch Châu Âu Bóng Chuyền",
+            "team_a": "Belgium",
+            "team_b": "Czech Republic",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125458_7fda1723.png",
+            "time": "21:00:00",
+            "date": "21/09",
+            "blv": "Chuối Kem",
+            "is_live": false,
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/998409_0c958712_20260921.png?v=0c958712",
             "width": 1600,
             "height": 1200
           }
