@@ -17,95 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "cc-03278c5b0f",
-          "name": "Oţelul vs Corvinul Hunedoara | 22:00 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-03278c5b0f",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-03278c5b0f",
-                  "name": "Oţelul vs Corvinul Hunedoara",
-                  "streams": [
-                    {
-                      "id": "st-03278c5b0f",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc7b03b97a",
-                          "name": "Chuối Lá HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-c3722bb96b",
-                          "name": "Chuối Lá FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Roma",
-            "team_a": "Oţelul",
-            "team_b": "Corvinul Hunedoara",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133916_1151bcde.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132655_e584855e.png",
-            "time": "22:00:00",
-            "date": "21/09",
-            "blv": "Chuối Lá",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1565259_009f63c2_20260921.png?v=009f63c2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "cc-e276ca4f10",
           "name": "Xorazm vs Qizilqum | 22:15 21/09",
           "type": "single",
@@ -189,7 +100,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1516144_c19427e4_20260921.png?v=c19427e4",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1516144_c19427e4_20260922.png?v=c19427e4",
             "width": 1600,
             "height": 1200
           }
@@ -278,7 +189,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640455_d17a5c9c_20260921.png?v=d17a5c9c",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640455_d17a5c9c_20260922.png?v=d17a5c9c",
             "width": 1600,
             "height": 1200
           }
@@ -291,10 +202,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -360,14 +271,14 @@
             "time": "00:15:00",
             "date": "22/09",
             "blv": "Chuối Chao",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639134_8b6171f0_20260921.png?v=8b6171f0",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639134_8b6171f0_20260922.png?v=8b6171f0",
             "width": 1600,
             "height": 1200
           }
@@ -456,7 +367,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1565260_4a775c1c_20260921.png?v=4a775c1c",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1565260_4a775c1c_20260922.png?v=4a775c1c",
             "width": 1600,
             "height": 1200
           }
@@ -545,7 +456,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603371_2dc4f845_20260921.png?v=2dc4f845",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603371_2dc4f845_20260922.png?v=2dc4f845",
             "width": 1600,
             "height": 1200
           }
