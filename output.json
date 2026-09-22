@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-2138c94cfb",
-          "name": "U23 Hàn Quốc vs Saudi Arabia U23 | 17:00 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2138c94cfb",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-2138c94cfb",
-                  "name": "U23 Hàn Quốc vs Saudi Arabia U23",
-                  "streams": [
-                    {
-                      "id": "st-2138c94cfb",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96219b047b",
-                          "name": "Chuối Nhỏ HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-bac904915a",
-                          "name": "Chuối Nhỏ FHD1",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "U23 Hàn Quốc",
-            "team_b": "Saudi Arabia U23",
-            "logo_a": "https://media.chuoichientv.net/media/20250902_190339_a6b21e4f.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134339_952f6da3.png",
-            "time": "17:00:00",
-            "date": "22/09",
-            "blv": "Chuối Nhỏ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639468_31efe3b9_20260922.png?v=31efe3b9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-3146d8d383",
           "name": "Namibia U20 vs Seychelles U20 | 20:00 22/09",
