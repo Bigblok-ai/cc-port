@@ -821,100 +821,11 @@
     },
     {
       "id": "cate_volleyball",
-      "name": "🏅 Volleyball (1 LIVE)",
+      "name": "🏅 Volleyball",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-3c5aabf671",
-          "name": "France vs Romania | 20:00 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3c5aabf671",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-3c5aabf671",
-                  "name": "France vs Romania",
-                  "streams": [
-                    {
-                      "id": "st-3c5aabf671",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-829e8448da",
-                          "name": "Chuối Tây HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-f9df836d1f",
-                          "name": "Chuối Tây FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vô địch Châu Âu Bóng Chuyền",
-            "team_a": "France",
-            "team_b": "Romania",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125501_5196f7ae.png",
-            "time": "20:00:00",
-            "date": "22/09",
-            "blv": "Chuối Tây",
-            "is_live": true,
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/999888_4ab64f94_20260922.png?v=4ab64f94",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-c6ad197bf2",
           "name": "Poland vs Germany | 23:00 22/09",
