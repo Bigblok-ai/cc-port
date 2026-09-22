@@ -106,8 +106,8 @@
           }
         },
         {
-          "id": "cc-c676e6d929",
-          "name": "Al Bidda SC vs Al Shamal | 22:00 22/09",
+          "id": "cc-2c37f831e1",
+          "name": "Dumbrăviţa vs CSM Reşiţa | 21:30 22/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -121,15 +121,15 @@
           ],
           "sources": [
             {
-              "id": "src-c676e6d929",
+              "id": "src-2c37f831e1",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-c676e6d929",
-                  "name": "Al Bidda SC vs Al Shamal",
+                  "id": "ct-2c37f831e1",
+                  "name": "Dumbrăviţa vs CSM Reşiţa",
                   "streams": [
                     {
-                      "id": "st-c676e6d929",
+                      "id": "st-2c37f831e1",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -174,12 +174,12 @@
             }
           ],
           "org_metadata": {
-            "league": "QSL Cup",
-            "team_a": "Al Bidda SC",
-            "team_b": "Al Shamal",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_130841_4ec1da59.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130847_be018c98.png",
-            "time": "22:00:00",
+            "league": "Hạng 2 Roma",
+            "team_a": "Dumbrăviţa",
+            "team_b": "CSM Reşiţa",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133923_619d029e.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133920_951b2699.png",
+            "time": "21:30:00",
             "date": "22/09",
             "blv": "Chuối Nhỏ",
             "is_live": false,
@@ -189,7 +189,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639136_04dea3a4_20260922.png?v=04dea3a4",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1602487_64e592ee_20260922.png?v=64e592ee",
             "width": 1600,
             "height": 1200
           }
@@ -821,100 +821,11 @@
     },
     {
       "id": "cate_volleyball",
-      "name": "🏅 Volleyball (1 LIVE)",
+      "name": "🏅 Volleyball",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-6a925969e9",
-          "name": "Japan vs China | 17:20 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6a925969e9",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-6a925969e9",
-                  "name": "Japan vs China",
-                  "streams": [
-                    {
-                      "id": "st-6a925969e9",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-829e8448da",
-                          "name": "Chuối Tây HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-f9df836d1f",
-                          "name": "Chuối Tây FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Bóng Chuyền Nữ",
-            "team_a": "Japan",
-            "team_b": "China",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png",
-            "time": "17:20:00",
-            "date": "22/09",
-            "blv": "Chuối Tây",
-            "is_live": true,
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/996965_0fe705b1_20260922.png?v=0fe705b1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-3c5aabf671",
           "name": "France vs Romania | 20:00 22/09",
