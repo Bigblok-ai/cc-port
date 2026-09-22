@@ -1266,100 +1266,11 @@
     },
     {
       "id": "cate_volleyball",
-      "name": "🏅 Volleyball (1 LIVE)",
+      "name": "🏅 Volleyball",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-159d779137",
-          "name": "Kazakhstan W vs Vietnam W | 08:00 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-159d779137",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-159d779137",
-                  "name": "Kazakhstan W vs Vietnam W",
-                  "streams": [
-                    {
-                      "id": "st-159d779137",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-829e8448da",
-                          "name": "Chuối Tây HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-f9df836d1f",
-                          "name": "Chuối Tây FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Bóng Chuyền Nữ",
-            "team_a": "Kazakhstan W",
-            "team_b": "Vietnam W",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_144823_bce84ab8.png",
-            "logo_b": "https://media.chuoichientv.net/media/20250826_164900_cfcedb98.png",
-            "time": "08:00:00",
-            "date": "22/09",
-            "blv": "Chuối Tây",
-            "is_live": true,
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/999676_244eb503_20260922.png?v=244eb503",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-7046d6ba0b",
           "name": "Chinese Taipei vs Indonesia | 11:00 22/09",
