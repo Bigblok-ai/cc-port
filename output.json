@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -279,95 +279,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1602489_009bf45a_20260923.png?v=009bf45a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-18606e5235",
-          "name": "Muaither SC vs Al-Khor | 00:15 23/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-18606e5235",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-18606e5235",
-                  "name": "Muaither SC vs Al-Khor",
-                  "streams": [
-                    {
-                      "id": "st-18606e5235",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0599a70c7f",
-                          "name": "Trốc Tru HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-c5365f323a",
-                          "name": "Trốc Tru FULL HD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "QSL Cup",
-            "team_a": "Muaither SC",
-            "team_b": "Al-Khor",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_130840_301542f2.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130845_f51e2500.png",
-            "time": "00:15:00",
-            "date": "23/09",
-            "blv": "Trốc Tru, Trốc Tru FULL",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639138_1e711e8f_20260923.png?v=1e711e8f",
             "width": 1600,
             "height": 1200
           }
