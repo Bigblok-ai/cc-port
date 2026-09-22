@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "cc-2c37f831e1",
-          "name": "Dumbrăviţa vs CSM Reşiţa | 21:30 22/09",
+          "id": "cc-cf8d4d897f",
+          "name": "Bayern Munich W vs Manchester City W | 23:45 22/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -28,95 +28,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2c37f831e1",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-2c37f831e1",
-                  "name": "Dumbrăviţa vs CSM Reşiţa",
-                  "streams": [
-                    {
-                      "id": "st-2c37f831e1",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96219b047b",
-                          "name": "Chuối Nhỏ HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-bac904915a",
-                          "name": "Chuối Nhỏ FHD1",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hạng 2 Roma",
-            "team_a": "Dumbrăviţa",
-            "team_b": "CSM Reşiţa",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133923_619d029e.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133920_951b2699.png",
-            "time": "21:30:00",
-            "date": "22/09",
-            "blv": "Chuối Nhỏ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1602487_64e592ee_20260922.png?v=64e592ee",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-cf8d4d897f",
-          "name": "Bayern Munich W vs Manchester City W | 23:45 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -182,7 +93,7 @@
             "time": "23:45:00",
             "date": "22/09",
             "blv": "Chuối Chao",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
