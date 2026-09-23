@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -380,10 +380,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -400,11 +400,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-96219b047b",
-                          "name": "Chuối Nhỏ HD1",
+                          "id": "lnk-13b7e700cc",
+                          "name": "Chuối Nhỏ HD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -417,11 +417,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-bac904915a",
-                          "name": "Chuối Nhỏ FHD1",
+                          "id": "lnk-ceeb11f873",
+                          "name": "Chuối Nhỏ FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -449,7 +449,7 @@
             "time": "23:45:00",
             "date": "23/09",
             "blv": "Chuối Nhỏ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
