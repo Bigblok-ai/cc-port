@@ -8,5 +8,193 @@
     "type": "cover",
     "url": "https://media.chuoichientv.net/media/20251115_113435_320106f9.png"
   },
-  "groups": []
+  "groups": [
+    {
+      "id": "cate_football",
+      "name": "⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "cc-332409010a",
+          "name": "China PR U23 vs UAE U23 | 12:30 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-332409010a",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-332409010a",
+                  "name": "China PR U23 vs UAE U23",
+                  "streams": [
+                    {
+                      "id": "st-332409010a",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-829e8448da",
+                          "name": "Chuối Tây HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f9df836d1f",
+                          "name": "Chuối Tây FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "China PR U23",
+            "team_b": "UAE U23",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134337_d547f1b2.png",
+            "logo_b": "https://media.chuoichientv.net/media/20260106_224736_a3a58295.png",
+            "time": "12:30:00",
+            "date": "23/09",
+            "blv": "Chuối Tây",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639462_559976a2_20260923.png?v=559976a2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-393a337394",
+          "name": "U23 Iran vs Korea DPR U23 | 12:30 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-393a337394",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-393a337394",
+                  "name": "U23 Iran vs Korea DPR U23",
+                  "streams": [
+                    {
+                      "id": "st-393a337394",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-96219b047b",
+                          "name": "Chuối Nhỏ HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-bac904915a",
+                          "name": "Chuối Nhỏ FHD1",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "U23 Iran",
+            "team_b": "Korea DPR U23",
+            "logo_a": "https://media.chuoichientv.net/media/20250902_190814_12d2f8a6.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_144416_30848f8c.png",
+            "time": "12:30:00",
+            "date": "23/09",
+            "blv": "Chuối Nhỏ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639469_50a63d1a_20260923.png?v=50a63d1a",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    }
+  ]
 }
