@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-3f4803e368",
-          "name": "Saudi Arabia vs Kuwait | 01:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3f4803e368",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-3f4803e368",
-                  "name": "Saudi Arabia vs Kuwait",
-                  "streams": [
-                    {
-                      "id": "st-3f4803e368",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc7b03b97a",
-                          "name": "Chuối Lá HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-c3722bb96b",
-                          "name": "Chuối Lá FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Gulf Cup of Nations",
-            "team_a": "Saudi Arabia",
-            "team_b": "Kuwait",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132738_952f6da3.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133416_9fa94ca3.png",
-            "time": "01:00:00",
-            "date": "24/09",
-            "blv": "Chuối Lá",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1637929_d199c0e0_20260924.png?v=d199c0e0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-1a38cae82f",
           "name": "Barcelona W vs Paris FC W | 02:00 24/09",
