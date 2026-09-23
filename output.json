@@ -193,6 +193,1172 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "cc-423ffa834e",
+          "name": "Gamba Osaka vs Tokushima Vortis | 15:00 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-423ffa834e",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-423ffa834e",
+                  "name": "Gamba Osaka vs Tokushima Vortis",
+                  "streams": [
+                    {
+                      "id": "st-423ffa834e",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ebd9df999c",
+                          "name": "Chuối To HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-822ad47302",
+                          "name": "Chuối To FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cup Bóng Đá Nhật",
+            "team_a": "Gamba Osaka",
+            "team_b": "Tokushima Vortis",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132412_e5fc55e1.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132414_93c38124.png",
+            "time": "15:00:00",
+            "date": "23/09",
+            "blv": "Chuối To",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1635582_05997910_20260923.png?v=05997910",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-80e435244e",
+          "name": "Japan U23 vs U23 Thailand | 17:30 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-80e435244e",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-80e435244e",
+                  "name": "Japan U23 vs U23 Thailand",
+                  "streams": [
+                    {
+                      "id": "st-80e435244e",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a1f4320198",
+                          "name": "A Ngao HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e5357537f5",
+                          "name": "A Ngao FULL HD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Japan U23",
+            "team_b": "U23 Thailand",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_131443_f7c8e720.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250727_220754_af82f425.png",
+            "time": "17:30:00",
+            "date": "23/09",
+            "blv": "A Ngao, A Ngao FULL",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639463_36eb78bb_20260923.png?v=36eb78bb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-2b482b2e6c",
+          "name": "Kyrgyz Republic U23 vs U23 Hong Kong | 17:30 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2b482b2e6c",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-2b482b2e6c",
+                  "name": "Kyrgyz Republic U23 vs U23 Hong Kong",
+                  "streams": [
+                    {
+                      "id": "st-2b482b2e6c",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc7b03b97a",
+                          "name": "Chuối Lá HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c3722bb96b",
+                          "name": "Chuối Lá FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "Kyrgyz Republic U23",
+            "team_b": "U23 Hong Kong",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_144417_74365eaf.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_144415_1bd3a785.png",
+            "time": "17:30:00",
+            "date": "23/09",
+            "blv": "Chuối Lá",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639464_78021b51_20260923.png?v=78021b51",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-168ee7dc53",
+          "name": "Malawi U20 vs Comoros U20 | 20:00 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-168ee7dc53",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-168ee7dc53",
+                  "name": "Malawi U20 vs Comoros U20",
+                  "streams": [
+                    {
+                      "id": "st-168ee7dc53",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-396b735a0c",
+                          "name": "Chuối Chao HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-49d2690e46",
+                          "name": "Chuối Chao FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "COSAFA U20 Championship",
+            "team_a": "Malawi U20",
+            "team_b": "Comoros U20",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134342_baf3c99f.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_142530_12d42349.png",
+            "time": "20:00:00",
+            "date": "23/09",
+            "blv": "Chuối Chao",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640460_4436ba7b_20260923.png?v=4436ba7b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-9809a0f374",
+          "name": "Italy U20 W vs Spain U20 | 20:00 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9809a0f374",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-9809a0f374",
+                  "name": "Italy U20 W vs Spain U20",
+                  "streams": [
+                    {
+                      "id": "st-9809a0f374",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-96219b047b",
+                          "name": "Chuối Nhỏ HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-bac904915a",
+                          "name": "Chuối Nhỏ FHD1",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup - U20 - Women",
+            "team_a": "Italy U20 W",
+            "team_b": "Spain U20",
+            "logo_a": "https://media.api-sports.io/football/teams/28365.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_144720_8711159b.png",
+            "time": "20:00:00",
+            "date": "23/09",
+            "blv": "Chuối Nhỏ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640769_cdfa1a1f_20260923.png?v=cdfa1a1f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-3b53cf18bc",
+          "name": "Kladno vs Baník Ostrava | 21:00 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3b53cf18bc",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-3b53cf18bc",
+                  "name": "Kladno vs Baník Ostrava",
+                  "streams": [
+                    {
+                      "id": "st-3b53cf18bc",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-829e8448da",
+                          "name": "Chuối Tây HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f9df836d1f",
+                          "name": "Chuối Tây FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cup",
+            "team_a": "Kladno",
+            "team_b": "Baník Ostrava",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_141313_ae6f7405.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134752_77696583.png",
+            "time": "21:00:00",
+            "date": "23/09",
+            "blv": "Chuối Tây",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636726_6cd62e2a_20260923.png?v=6cd62e2a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-8dd96f6db9",
+          "name": "Korea DPR U20 vs Colombia U20 W | 23:30 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8dd96f6db9",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-8dd96f6db9",
+                  "name": "Korea DPR U20 vs Colombia U20 W",
+                  "streams": [
+                    {
+                      "id": "st-8dd96f6db9",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a1f4320198",
+                          "name": "A Ngao HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e5357537f5",
+                          "name": "A Ngao FULL HD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup - U20 - Women",
+            "team_a": "Korea DPR U20",
+            "team_b": "Colombia U20 W",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_144728_67f4ff9c.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_144722_7f305cf9.png",
+            "time": "23:30:00",
+            "date": "23/09",
+            "blv": "A Ngao, A Ngao FULL",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641075_1e55759d_20260923.png?v=1e55759d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-9c5f59ea15",
+          "name": "OH Leuven W vs Roma W | 23:45 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9c5f59ea15",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-9c5f59ea15",
+                  "name": "OH Leuven W vs Roma W",
+                  "streams": [
+                    {
+                      "id": "st-9c5f59ea15",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0599a70c7f",
+                          "name": "Trốc Tru HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c5365f323a",
+                          "name": "Trốc Tru FULL HD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League Women",
+            "team_a": "OH Leuven W",
+            "team_b": "Roma W",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133714_e956ebcb.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133742_94d1bbd1.png",
+            "time": "23:45:00",
+            "date": "23/09",
+            "blv": "Trốc Tru, Trốc Tru FULL",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638317_b86741b5_20260923.png?v=b86741b5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-1807c0ba1c",
+          "name": "Servette Chênois W vs Lyon W | 23:45 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1807c0ba1c",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-1807c0ba1c",
+                  "name": "Servette Chênois W vs Lyon W",
+                  "streams": [
+                    {
+                      "id": "st-1807c0ba1c",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-96219b047b",
+                          "name": "Chuối Nhỏ HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-bac904915a",
+                          "name": "Chuối Nhỏ FHD1",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League Women",
+            "team_a": "Servette Chênois W",
+            "team_b": "Lyon W",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_140515_377a5a77.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132645_dead805a.png",
+            "time": "23:45:00",
+            "date": "23/09",
+            "blv": "Chuối Nhỏ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638334_f268f29e_20260923.png?v=f268f29e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-3f4803e368",
+          "name": "Saudi Arabia vs Kuwait | 01:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3f4803e368",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-3f4803e368",
+                  "name": "Saudi Arabia vs Kuwait",
+                  "streams": [
+                    {
+                      "id": "st-3f4803e368",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc7b03b97a",
+                          "name": "Chuối Lá HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c3722bb96b",
+                          "name": "Chuối Lá FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Gulf Cup of Nations",
+            "team_a": "Saudi Arabia",
+            "team_b": "Kuwait",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132738_952f6da3.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133416_9fa94ca3.png",
+            "time": "01:00:00",
+            "date": "24/09",
+            "blv": "Chuối Lá",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1637929_d199c0e0_20260923.png?v=d199c0e0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-1a38cae82f",
+          "name": "Barcelona W vs Paris FC W | 02:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1a38cae82f",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-1a38cae82f",
+                  "name": "Barcelona W vs Paris FC W",
+                  "streams": [
+                    {
+                      "id": "st-1a38cae82f",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-396b735a0c",
+                          "name": "Chuối Chao HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-49d2690e46",
+                          "name": "Chuối Chao FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League Women",
+            "team_a": "Barcelona W",
+            "team_b": "Paris FC W",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133757_0a8041d4.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132645_70b8e616.png",
+            "time": "02:00:00",
+            "date": "24/09",
+            "blv": "Chuối Chao",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638296_0a7919f5_20260923.png?v=0a7919f5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-d05972c0ae",
+          "name": "Chelsea W vs Austria Wien W | 02:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d05972c0ae",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-d05972c0ae",
+                  "name": "Chelsea W vs Austria Wien W",
+                  "streams": [
+                    {
+                      "id": "st-d05972c0ae",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0599a70c7f",
+                          "name": "Trốc Tru HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c5365f323a",
+                          "name": "Trốc Tru FULL HD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Champions League Women",
+            "team_a": "Chelsea W",
+            "team_b": "Austria Wien W",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133728_b5b0ed02.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png",
+            "time": "02:00:00",
+            "date": "24/09",
+            "blv": "Trốc Tru, Trốc Tru FULL",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638303_7b9c08a0_20260923.png?v=7b9c08a0",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_volleyball",
+      "name": "🏅 Volleyball",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "cc-d2bfdb30cc",
+          "name": "Italy vs Finland | 21:00 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d2bfdb30cc",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-d2bfdb30cc",
+                  "name": "Italy vs Finland",
+                  "streams": [
+                    {
+                      "id": "st-d2bfdb30cc",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-abfd70baa3",
+                          "name": "Chuối Kem HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-dfdc991190",
+                          "name": "Chuối Kem FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vô địch Châu Âu Bóng Chuyền",
+            "team_a": "Italy",
+            "team_b": "Finland",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134256_cfe272ef.png",
+            "time": "21:00:00",
+            "date": "23/09",
+            "blv": "Chuối Kem",
+            "is_live": false,
+            "cate_type": "volleyball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/998734_442cfb83_20260923.png?v=442cfb83",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
