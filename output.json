@@ -641,7 +641,7 @@
         },
         {
           "id": "cc-5f7dde7908",
-          "name": "Indonesia vs Singapore | 20:00 25/09",
+          "name": "Indonesia vs Singapore | 19:00 25/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -713,7 +713,7 @@
             "team_b": "Singapore",
             "logo_a": "https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif",
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png",
-            "time": "20:00:00",
+            "time": "19:00:00",
             "date": "25/09",
             "blv": "Chuối Nhỏ",
             "is_live": false,
