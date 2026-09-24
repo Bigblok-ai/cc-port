@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-e80d4c4ff2",
-          "name": "Japan vs Uruguay | 17:05 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e80d4c4ff2",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-e80d4c4ff2",
-                  "name": "Japan vs Uruguay",
-                  "streams": [
-                    {
-                      "id": "st-e80d4c4ff2",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a1f4320198",
-                          "name": "A Ngao HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-fd4fe701a1",
-                          "name": "A Ngao FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao Hữu Quốc Tế",
-            "team_a": "Japan",
-            "team_b": "Uruguay",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132807_4c096ae9.png",
-            "time": "17:05:00",
-            "date": "24/09",
-            "blv": "A Ngao",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1628995_1ae3dad5_20260924.png?v=1ae3dad5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-159e4240fc",
           "name": "South Korea vs Ecuador | 18:00 24/09",
