@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -61,8 +61,8 @@
                           ]
                         },
                         {
-                          "id": "lnk-a779ba853f",
-                          "name": "Chuối Sấy FULLL HD",
+                          "id": "lnk-ec9dab93cc",
+                          "name": "Chuối Sấy FHD",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
@@ -92,7 +92,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132717_27d7fb21.png",
             "time": "16:00:00",
             "date": "24/09",
-            "blv": "Chuối Sấy, Chuối Sấy FULLL",
+            "blv": "Chuối Sấy",
             "is_live": true,
             "cate_type": "football"
           },
@@ -113,10 +113,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -150,8 +150,8 @@
                           ]
                         },
                         {
-                          "id": "lnk-e5357537f5",
-                          "name": "A Ngao FULL HD",
+                          "id": "lnk-fd4fe701a1",
+                          "name": "A Ngao FHD",
                           "type": "hls",
                           "default": false,
                           "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
@@ -181,8 +181,8 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132807_4c096ae9.png",
             "time": "17:05:00",
             "date": "24/09",
-            "blv": "A Ngao, A Ngao FULL",
-            "is_live": false,
+            "blv": "A Ngao",
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -417,8 +417,8 @@
                           ]
                         },
                         {
-                          "id": "lnk-a779ba853f",
-                          "name": "Chuối Sấy FULLL HD",
+                          "id": "lnk-ec9dab93cc",
+                          "name": "Chuối Sấy FHD",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
@@ -448,7 +448,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132716_11742340.png",
             "time": "19:00:00",
             "date": "24/09",
-            "blv": "Chuối Sấy, Chuối Sấy FULLL",
+            "blv": "Chuối Sấy",
             "is_live": false,
             "cate_type": "football"
           },
@@ -773,8 +773,8 @@
                           ]
                         },
                         {
-                          "id": "lnk-c5365f323a",
-                          "name": "Trốc Tru FULL HD",
+                          "id": "lnk-0953dcc267",
+                          "name": "Trốc Tru FHD",
                           "type": "hls",
                           "default": false,
                           "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
@@ -804,7 +804,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134300_f2221751.png",
             "time": "23:00:00",
             "date": "24/09",
-            "blv": "Trốc Tru, Trốc Tru FULL",
+            "blv": "Trốc Tru",
             "is_live": false,
             "cate_type": "football"
           },
@@ -1129,8 +1129,8 @@
                           ]
                         },
                         {
-                          "id": "lnk-e5357537f5",
-                          "name": "A Ngao FULL HD",
+                          "id": "lnk-fd4fe701a1",
+                          "name": "A Ngao FHD",
                           "type": "hls",
                           "default": false,
                           "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
@@ -1160,7 +1160,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134251_66ec2f9b.png",
             "time": "01:45:00",
             "date": "25/09",
-            "blv": "A Ngao, A Ngao FULL",
+            "blv": "A Ngao",
             "is_live": false,
             "cate_type": "football"
           },
