@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-4c89aabc0e",
-          "name": "Uzbekistan vs Iran | 21:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4c89aabc0e",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-4c89aabc0e",
-                  "name": "Uzbekistan vs Iran",
-                  "streams": [
-                    {
-                      "id": "st-4c89aabc0e",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-396b735a0c",
-                          "name": "Chuối Chao HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-49d2690e46",
-                          "name": "Chuối Chao FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao Hữu Quốc Tế",
-            "team_a": "Uzbekistan",
-            "team_b": "Iran",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134316_7ff7b895.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134251_b96e660a.png",
-            "time": "21:00:00",
-            "date": "24/09",
-            "blv": "Chuối Chao",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638591_65661668_20260924.png?v=65661668",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-94a65c0270",
           "name": "United Arab Emirates vs Yemen | 22:55 24/09",
@@ -1792,6 +1703,184 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1637600_dcf8f812_20260924.png?v=dcf8f812",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-2951b335ab",
+          "name": "Georgia vs Northern Ireland | 23:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2951b335ab",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-2951b335ab",
+                  "name": "Georgia vs Northern Ireland",
+                  "streams": [
+                    {
+                      "id": "st-2951b335ab",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-829e8448da",
+                          "name": "Chuối Tây HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f9df836d1f",
+                          "name": "Chuối Tây FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Georgia",
+            "team_b": "Northern Ireland",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134252_884d8f9e.png",
+            "time": "23:00:00",
+            "date": "25/09",
+            "blv": "Chuối Tây",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1528881_b1ccdb65_20260924.png?v=b1ccdb65",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-1e20e8dffd",
+          "name": "Armenia vs Latvia | 23:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1e20e8dffd",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-1e20e8dffd",
+                  "name": "Armenia vs Latvia",
+                  "streams": [
+                    {
+                      "id": "st-1e20e8dffd",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-223c76a7ce",
+                          "name": "Chuối Sấy HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisay/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ec9dab93cc",
+                          "name": "Chuối Sấy FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Armenia",
+            "team_b": "Latvia",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134253_26d0ea1f.png",
+            "time": "23:00:00",
+            "date": "25/09",
+            "blv": "Chuối Sấy",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1545602_8ec7307b_20260924.png?v=8ec7307b",
             "width": 1600,
             "height": 1200
           }
