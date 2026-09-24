@@ -934,8 +934,8 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-a1f4320198",
-                          "name": "A Ngao HD",
+                          "id": "lnk-6d7e18543f",
+                          "name": "Chuối Ngao HD",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8",
@@ -951,8 +951,8 @@
                           ]
                         },
                         {
-                          "id": "lnk-fd4fe701a1",
-                          "name": "A Ngao FHD",
+                          "id": "lnk-ad87ec5c78",
+                          "name": "Chuối Ngao FHD",
                           "type": "hls",
                           "default": false,
                           "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
@@ -982,7 +982,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134251_66ec2f9b.png",
             "time": "01:45:00",
             "date": "25/09",
-            "blv": "A Ngao",
+            "blv": "Chuối Ngao",
             "is_live": false,
             "cate_type": "football"
           },
