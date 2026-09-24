@@ -1685,6 +1685,451 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "cc-e0a0da715c",
+          "name": "Türkiye vs France | 01:45 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e0a0da715c",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-e0a0da715c",
+                  "name": "Türkiye vs France",
+                  "streams": [
+                    {
+                      "id": "st-e0a0da715c",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-13b7e700cc",
+                          "name": "Chuối Nhỏ HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ceeb11f873",
+                          "name": "Chuối Nhỏ FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Türkiye",
+            "team_b": "France",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png",
+            "time": "01:45:00",
+            "date": "26/09",
+            "blv": "Chuối Nhỏ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1528882_58d7f6d6_20260925.png?v=58d7f6d6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-f3b5f93c4b",
+          "name": "Italy vs Belgium | 01:45 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f3b5f93c4b",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-f3b5f93c4b",
+                  "name": "Italy vs Belgium",
+                  "streams": [
+                    {
+                      "id": "st-f3b5f93c4b",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0599a70c7f",
+                          "name": "Trốc Tru HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0953dcc267",
+                          "name": "Trốc Tru FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Italy",
+            "team_b": "Belgium",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png",
+            "time": "01:45:00",
+            "date": "26/09",
+            "blv": "Trốc Tru",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1528883_86078a5f_20260925.png?v=86078a5f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-7129dcc8e8",
+          "name": "Hungary vs Ukraine | 01:45 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7129dcc8e8",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-7129dcc8e8",
+                  "name": "Hungary vs Ukraine",
+                  "streams": [
+                    {
+                      "id": "st-7129dcc8e8",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-396b735a0c",
+                          "name": "Chuối Chao HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-49d2690e46",
+                          "name": "Chuối Chao FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Hungary",
+            "team_b": "Ukraine",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125458_a2e2b5c9.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125459_fd6a0e94.png",
+            "time": "01:45:00",
+            "date": "26/09",
+            "blv": "Chuối Chao",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1528884_544f754c_20260925.png?v=544f754c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-4706d5e0ec",
+          "name": "Poland vs Bosnia & Herzegovina | 01:45 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4706d5e0ec",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-4706d5e0ec",
+                  "name": "Poland vs Bosnia & Herzegovina",
+                  "streams": [
+                    {
+                      "id": "st-4706d5e0ec",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc7b03b97a",
+                          "name": "Chuối Lá HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c3722bb96b",
+                          "name": "Chuối Lá FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Poland",
+            "team_b": "Bosnia & Herzegovina",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134300_f7c99abe.png",
+            "time": "01:45:00",
+            "date": "26/09",
+            "blv": "Chuối Lá",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1528885_18fe7601_20260925.png?v=18fe7601",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-80e4098c7a",
+          "name": "Sweden vs Romania | 01:45 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-80e4098c7a",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-80e4098c7a",
+                  "name": "Sweden vs Romania",
+                  "streams": [
+                    {
+                      "id": "st-80e4098c7a",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6d7e18543f",
+                          "name": "Chuối Ngao HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ad87ec5c78",
+                          "name": "Chuối Ngao FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Sweden",
+            "team_b": "Romania",
+            "logo_a": "https://media.chuoichientv.net/media/20250825_180323_118bdf95.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125501_5196f7ae.png",
+            "time": "01:45:00",
+            "date": "26/09",
+            "blv": "Chuối Ngao",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1528886_d8c0ec76_20260925.png?v=d8c0ec76",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
