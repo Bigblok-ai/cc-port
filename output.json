@@ -196,7 +196,7 @@
         },
         {
           "id": "cc-3f6fd9ada0",
-          "name": "Bangladesh vs Malaysia | 16:00 25/09",
+          "name": "Bangladesh vs Malaysia | 15:00 25/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -268,7 +268,7 @@
             "team_b": "Malaysia",
             "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png",
             "logo_b": "https://media.chuoichientv.net/media/20250902_193521_ec2f00c2.png",
-            "time": "16:00:00",
+            "time": "15:00:00",
             "date": "25/09",
             "blv": "Chuối Chao",
             "is_live": false,
