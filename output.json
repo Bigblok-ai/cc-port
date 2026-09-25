@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -101,95 +101,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1583655_2c45fb84_20260925.png?v=2c45fb84",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-b2de4fc15b",
-          "name": "TP. Hồ Chí Minh vs Văn Hiến | 17:00 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b2de4fc15b",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-b2de4fc15b",
-                  "name": "TP. Hồ Chí Minh vs Văn Hiến",
-                  "streams": [
-                    {
-                      "id": "st-b2de4fc15b",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-abfd70baa3",
-                          "name": "Chuối Kem HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-dfdc991190",
-                          "name": "Chuối Kem FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V.League 2",
-            "team_a": "TP. Hồ Chí Minh",
-            "team_b": "Văn Hiến",
-            "logo_a": "https://media.chuoichientv.net/media/20260417_091125_e069e829.png",
-            "logo_b": "https://media.api-sports.io/football/teams/26603.png",
-            "time": "17:00:00",
-            "date": "25/09",
-            "blv": "Chuối Kem",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1634969_a610d00b_20260925.png?v=a610d00b",
             "width": 1600,
             "height": 1200
           }
@@ -285,96 +196,7 @@
         },
         {
           "id": "cc-5f7dde7908",
-          "name": "Indonesia vs Singapore | 19:00 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5f7dde7908",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-5f7dde7908",
-                  "name": "Indonesia vs Singapore",
-                  "streams": [
-                    {
-                      "id": "st-5f7dde7908",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-abfd70baa3",
-                          "name": "Chuối Kem HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-dfdc991190",
-                          "name": "Chuối Kem FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA Asean Cup",
-            "team_a": "Indonesia",
-            "team_b": "Singapore",
-            "logo_a": "https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png",
-            "time": "19:00:00",
-            "date": "25/09",
-            "blv": "Chuối Kem",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641703_70129582_20260925.png?v=70129582",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-b5155201b8",
-          "name": "Tanzania vs Guinea-Bissau | 20:00 25/09",
+          "name": "Indonesia vs Singapore | 20:00 25/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -388,15 +210,15 @@
           ],
           "sources": [
             {
-              "id": "src-b5155201b8",
+              "id": "src-5f7dde7908",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-b5155201b8",
-                  "name": "Tanzania vs Guinea-Bissau",
+                  "id": "ct-5f7dde7908",
+                  "name": "Indonesia vs Singapore",
                   "streams": [
                     {
-                      "id": "st-b5155201b8",
+                      "id": "st-5f7dde7908",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -441,11 +263,11 @@
             }
           ],
           "org_metadata": {
-            "league": "Africa Cup of Nations - Qualification",
-            "team_a": "Tanzania",
-            "team_b": "Guinea-Bissau",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132758_7ab1a2cb.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134306_c6162edd.png",
+            "league": "FIFA Asean Cup",
+            "team_a": "Indonesia",
+            "team_b": "Singapore",
+            "logo_a": "https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png",
             "time": "20:00:00",
             "date": "25/09",
             "blv": "Trốc Tru",
@@ -456,7 +278,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1545835_25f03a64_20260925.png?v=25f03a64",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641703_70129582_20260925.png?v=70129582",
             "width": 1600,
             "height": 1200
           }
@@ -489,11 +311,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-abfd70baa3",
-                          "name": "Chuối Kem HD",
+                          "id": "lnk-13b7e700cc",
+                          "name": "Chuối Nhỏ HD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -506,11 +328,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-dfdc991190",
-                          "name": "Chuối Kem FHD",
+                          "id": "lnk-ceeb11f873",
+                          "name": "Chuối Nhỏ FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -537,7 +359,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132737_07ec8953.png",
             "time": "21:00:00",
             "date": "25/09",
-            "blv": "Chuối Kem",
+            "blv": "Chuối Nhỏ",
             "is_live": false,
             "cate_type": "football"
           },
@@ -1477,11 +1299,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-829e8448da",
-                          "name": "Chuối Tây HD",
+                          "id": "lnk-abfd70baa3",
+                          "name": "Chuối Kem HD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1494,11 +1316,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-f9df836d1f",
-                          "name": "Chuối Tây FHD",
+                          "id": "lnk-dfdc991190",
+                          "name": "Chuối Kem FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1525,7 +1347,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png",
             "time": "22:00:00",
             "date": "25/09",
-            "blv": "Chuối Tây",
+            "blv": "Chuối Kem",
             "is_live": false,
             "cate_type": "volleyball"
           },
