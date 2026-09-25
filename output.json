@@ -400,11 +400,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-968157f5bb",
-                          "name": "Chuối Ngao HD",
+                          "id": "lnk-ebd9df999c",
+                          "name": "Chuối To HD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -417,11 +417,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-053eb8616a",
-                          "name": "Chuối Ngao FHD",
+                          "id": "lnk-822ad47302",
+                          "name": "Chuối To FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingaohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -448,7 +448,7 @@
             "logo_b": "https://media.chuoichientv.net/media/20250902_190503_cfcedb98.png",
             "time": "17:30:00",
             "date": "25/09",
-            "blv": "Chuối Ngao",
+            "blv": "Chuối To",
             "is_live": true,
             "cate_type": "football"
           },
