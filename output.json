@@ -667,11 +667,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-13b7e700cc",
-                          "name": "Chuối Nhỏ HD",
+                          "id": "lnk-abfd70baa3",
+                          "name": "Chuối Kem HD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -684,11 +684,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-ceeb11f873",
-                          "name": "Chuối Nhỏ FHD",
+                          "id": "lnk-dfdc991190",
+                          "name": "Chuối Kem FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -715,7 +715,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png",
             "time": "19:00:00",
             "date": "25/09",
-            "blv": "Chuối Nhỏ",
+            "blv": "Chuối Kem",
             "is_live": false,
             "cate_type": "football"
           },
