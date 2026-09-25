@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-74fc9986be",
-          "name": "Morocco vs Gabon | 02:00 26/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-74fc9986be",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-74fc9986be",
-                  "name": "Morocco vs Gabon",
-                  "streams": [
-                    {
-                      "id": "st-74fc9986be",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ebd9df999c",
-                          "name": "Chuối To HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-822ad47302",
-                          "name": "Chuối To FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Africa Cup of Nations - Qualification",
-            "team_a": "Morocco",
-            "team_b": "Gabon",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132757_56274e6a.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132800_a7fd586c.png",
-            "time": "02:00:00",
-            "date": "26/09",
-            "blv": "Chuối To",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1545826_fe15f973_20260926.png?v=fe15f973",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-118935b064",
           "name": "Atlante FC vs Monterrey | 08:00 26/09",
