@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-1e20e8dffd",
-          "name": "Armenia vs Latvia | 23:00 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1e20e8dffd",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-1e20e8dffd",
-                  "name": "Armenia vs Latvia",
-                  "streams": [
-                    {
-                      "id": "st-1e20e8dffd",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-223c76a7ce",
-                          "name": "Chuối Sấy HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ec9dab93cc",
-                          "name": "Chuối Sấy FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Armenia",
-            "team_b": "Latvia",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134253_26d0ea1f.png",
-            "time": "23:00:00",
-            "date": "25/09",
-            "blv": "Chuối Sấy",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1545602_8ec7307b_20260926.png?v=8ec7307b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-e0a0da715c",
           "name": "Türkiye vs France | 01:45 26/09",
