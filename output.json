@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-cfbfae587c",
-          "name": "U23 Hàn Quốc vs U23 Vietnam | 17:30 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cfbfae587c",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-cfbfae587c",
-                  "name": "U23 Hàn Quốc vs U23 Vietnam",
-                  "streams": [
-                    {
-                      "id": "st-cfbfae587c",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ebd9df999c",
-                          "name": "Chuối To HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-822ad47302",
-                          "name": "Chuối To FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "U23 Hàn Quốc",
-            "team_b": "U23 Vietnam",
-            "logo_a": "https://media.chuoichientv.net/media/20250902_190339_a6b21e4f.png",
-            "logo_b": "https://media.chuoichientv.net/media/20250902_190503_cfcedb98.png",
-            "time": "17:30:00",
-            "date": "25/09",
-            "blv": "Chuối To",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641615_7cd17e15_20260925.png?v=7cd17e15",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-5f7dde7908",
           "name": "Indonesia vs Singapore | 20:00 25/09",
