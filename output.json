@@ -318,95 +318,6 @@
           }
         },
         {
-          "id": "cc-981168a38a",
-          "name": "Järfälla vs AFC Eskilstuna | 21:00 26/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-981168a38a",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-981168a38a",
-                  "name": "Järfälla vs AFC Eskilstuna",
-                  "streams": [
-                    {
-                      "id": "st-981168a38a",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-829e8448da",
-                          "name": "Chuối Tây HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-f9df836d1f",
-                          "name": "Chuối Tây FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ettan - Norra",
-            "team_a": "Järfälla",
-            "team_b": "AFC Eskilstuna",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134032_70ccce36.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132833_f7a2664f.png",
-            "time": "21:00:00",
-            "date": "26/09",
-            "blv": "Chuối Tây",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1505279_6c5722bf_20260926.png?v=6c5722bf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "cc-228466927f",
           "name": "San Marino vs Finland | 23:00 26/09",
           "type": "single",
@@ -733,6 +644,40 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-0599a70c7f",
+                          "name": "Trốc Tru HD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0953dcc267",
+                          "name": "Trốc Tru FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -749,7 +694,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125449_8711159b.png",
             "time": "01:45:00",
             "date": "27/09",
-            "blv": "Chuối Chao",
+            "blv": "Chuối Chao, Trốc Tru",
             "is_live": false,
             "cate_type": "football"
           },
@@ -939,10 +884,19 @@
             "width": 1600,
             "height": 1200
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "cate_volleyball",
+      "name": "🏅 Volleyball",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
-          "id": "cc-a60782aee1",
-          "name": "USA vs Peru | 03:30 27/09",
+          "id": "cc-3c03b35020",
+          "name": "Slovakia W vs Poland | 22:00 26/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -956,23 +910,23 @@
           ],
           "sources": [
             {
-              "id": "src-a60782aee1",
+              "id": "src-3c03b35020",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-a60782aee1",
-                  "name": "USA vs Peru",
+                  "id": "ct-3c03b35020",
+                  "name": "Slovakia W vs Poland",
                   "streams": [
                     {
-                      "id": "st-a60782aee1",
+                      "id": "st-3c03b35020",
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-223c76a7ce",
-                          "name": "Chuối Sấy HD",
+                          "id": "lnk-829e8448da",
+                          "name": "Chuối Tây HD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisay/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -985,11 +939,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-ec9dab93cc",
-                          "name": "Chuối Sấy FHD",
+                          "id": "lnk-f9df836d1f",
+                          "name": "Chuối Tây FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1009,35 +963,26 @@
             }
           ],
           "org_metadata": {
-            "league": "Giao Hữu Quốc Tế",
-            "team_a": "USA",
-            "team_b": "Peru",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132808_ddacb0aa.png",
-            "time": "03:30:00",
-            "date": "27/09",
-            "blv": "Chuối Sấy",
+            "league": "Vô địch Châu Âu Bóng Chuyền",
+            "team_a": "Slovakia W",
+            "team_b": "Poland",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_143111_f0cb8ab0.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png",
+            "time": "22:00:00",
+            "date": "26/09",
+            "blv": "Chuối Tây",
             "is_live": false,
-            "cate_type": "football"
+            "cate_type": "volleyball"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1628997_5ff068c6_20260926.png?v=5ff068c6",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/998947_be795e84_20260926.png?v=be795e84",
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "cate_volleyball",
-      "name": "🏅 Volleyball",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
           "id": "cc-90078c2244",
           "name": "Iran vs Kyrgyzstan | 08:00 27/09",
