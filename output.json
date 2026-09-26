@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -135,95 +135,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1528891_ee44a826_20260927.png?v=ee44a826",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-1b260fa9bd",
-          "name": "Czech Republic vs Croatia | 01:45 27/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1b260fa9bd",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-1b260fa9bd",
-                  "name": "Czech Republic vs Croatia",
-                  "streams": [
-                    {
-                      "id": "st-1b260fa9bd",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8145c9578b",
-                          "name": "Chuối Ngao HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-7bc8393de1",
-                          "name": "Chuối Ngao FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Czech Republic",
-            "team_b": "Croatia",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125458_7fda1723.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125448_7dd16e8b.png",
-            "time": "01:45:00",
-            "date": "27/09",
-            "blv": "Chuối Ngao",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1528892_cb69d5d3_20260927.png?v=cb69d5d3",
             "width": 1600,
             "height": 1200
           }
