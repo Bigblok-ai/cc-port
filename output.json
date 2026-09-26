@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-118935b064",
-          "name": "Atlante FC vs Monterrey | 08:00 26/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-118935b064",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-118935b064",
-                  "name": "Atlante FC vs Monterrey",
-                  "streams": [
-                    {
-                      "id": "st-118935b064",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-396b735a0c",
-                          "name": "Chuối Chao HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-49d2690e46",
-                          "name": "Chuối Chao FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Mexico",
-            "team_a": "Atlante FC",
-            "team_b": "Monterrey",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133843_6c2369a8.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_131433_e85dcdc4.png",
-            "time": "08:00:00",
-            "date": "26/09",
-            "blv": "Chuối Chao",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550975_92843368_20260926.png?v=92843368",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-1766f0f0cd",
           "name": "Club Tijuana vs Atlas | 10:00 26/09",
