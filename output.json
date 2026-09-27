@@ -1172,6 +1172,95 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "cc-c8230d9843",
+          "name": "Necaxa vs Club America | 10:00 28/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c8230d9843",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-c8230d9843",
+                  "name": "Necaxa vs Club America",
+                  "streams": [
+                    {
+                      "id": "st-c8230d9843",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ebd9df999c",
+                          "name": "Chuối To HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-822ad47302",
+                          "name": "Chuối To FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Mexico",
+            "team_a": "Necaxa",
+            "team_b": "Club America",
+            "logo_a": "https://media.chuoichientv.net/media/20250920_011102_024ecd13.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png",
+            "time": "10:00:00",
+            "date": "28/09",
+            "blv": "Chuối To",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550983_37d292ca_20260927.png?v=37d292ca",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
