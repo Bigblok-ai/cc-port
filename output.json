@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-55e9bd7cdd",
-          "name": "Mallorca vs Almeria | 21:15 27/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-55e9bd7cdd",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-55e9bd7cdd",
-                  "name": "Mallorca vs Almeria",
-                  "streams": [
-                    {
-                      "id": "st-55e9bd7cdd",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-13b7e700cc",
-                          "name": "Chuối Nhỏ HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ceeb11f873",
-                          "name": "Chuối Nhỏ FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga 2",
-            "team_a": "Mallorca",
-            "team_b": "Almeria",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125628_01e49a9d.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133420_69c15fd6.png",
-            "time": "21:15:00",
-            "date": "27/09",
-            "blv": "Chuối Nhỏ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1569944_ff14e68f_20260927.png?v=ff14e68f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-a98af3efab",
           "name": "Serbia vs Netherlands | 23:00 27/09",
