@@ -11,112 +11,23 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "cc-e83d36ad9e",
-          "name": "Hong Kong vs Laos | 14:00 27/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e83d36ad9e",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-e83d36ad9e",
-                  "name": "Hong Kong vs Laos",
-                  "streams": [
-                    {
-                      "id": "st-e83d36ad9e",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-396b735a0c",
-                          "name": "Chuối Chao HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-49d2690e46",
-                          "name": "Chuối Chao FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA Asean Cup",
-            "team_a": "Hong Kong",
-            "team_b": "Laos",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134317_1bd3a785.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132715_ddeb005f.png",
-            "time": "14:00:00",
-            "date": "27/09",
-            "blv": "Chuối Chao",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641706_98754760_20260927.png?v=98754760",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "cc-ec10d1383d",
-          "name": "Đồng Tháp vs Thai Nguyen | 16:00 27/09",
+          "name": "Đồng Tháp vs Thai Nguyen | 17:00 27/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -179,10 +90,10 @@
             "team_b": "Thai Nguyen",
             "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_135806_f9a41cc0.png",
             "logo_b": "https://media.api-sports.io/football/teams/28216.png",
-            "time": "16:00:00",
+            "time": "17:00:00",
             "date": "27/09",
             "blv": "Chuối To",
-            "is_live": true,
+            "is_live": false,
             "cate_type": "football"
           },
           "image": {
