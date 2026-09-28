@@ -1005,8 +1005,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "cc-dec233739d",
-          "name": "China vs Philippines | 11:00 28/09",
+          "id": "cc-d9f269c7a6",
+          "name": "Việt Nam vs Qatar | 14:00 28/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1016,95 +1016,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dec233739d",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-dec233739d",
-                  "name": "China vs Philippines",
-                  "streams": [
-                    {
-                      "id": "st-dec233739d",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-223c76a7ce",
-                          "name": "Chuối Sấy HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ec9dab93cc",
-                          "name": "Chuối Sấy FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "China",
-            "team_b": "Philippines",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png",
-            "logo_b": "https://media.chuoichientv.net/media/20251215_200012_37b4c910.png",
-            "time": "11:00:00",
-            "date": "28/09",
-            "blv": "Chuối Sấy",
-            "is_live": true,
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/991881_64e1a082_20260928.png?v=64e1a082",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-d9f269c7a6",
-          "name": "Việt Nam vs Qatar | 14:00 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -1170,7 +1081,7 @@
             "time": "14:00:00",
             "date": "28/09",
             "blv": "Chuối Kem",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "volleyball"
           },
           "image": {
