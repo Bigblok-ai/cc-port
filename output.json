@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-a69dc89047",
-          "name": "Leon vs FC Juarez | 08:00 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a69dc89047",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-a69dc89047",
-                  "name": "Leon vs FC Juarez",
-                  "streams": [
-                    {
-                      "id": "st-a69dc89047",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-abfd70baa3",
-                          "name": "Chuối Kem HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-dfdc991190",
-                          "name": "Chuối Kem FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Mexico",
-            "team_a": "Leon",
-            "team_b": "FC Juarez",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_131434_fbad589d.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133839_9be93a93.png",
-            "time": "08:00:00",
-            "date": "28/09",
-            "blv": "Chuối Kem",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550982_eb4b9dcc_20260928.png?v=eb4b9dcc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-f5e174df40",
           "name": "Singapore vs Bangladesh | 16:00 28/09",
