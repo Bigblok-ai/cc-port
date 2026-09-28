@@ -999,100 +999,11 @@
     },
     {
       "id": "cate_volleyball",
-      "name": "🏅 Volleyball (1 LIVE)",
+      "name": "🏅 Volleyball",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-d9f269c7a6",
-          "name": "Việt Nam vs Qatar | 14:00 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d9f269c7a6",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-d9f269c7a6",
-                  "name": "Việt Nam vs Qatar",
-                  "streams": [
-                    {
-                      "id": "st-d9f269c7a6",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-abfd70baa3",
-                          "name": "Chuối Kem HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-dfdc991190",
-                          "name": "Chuối Kem FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Bóng Chuyền",
-            "team_a": "Việt Nam",
-            "team_b": "Qatar",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png",
-            "logo_b": "https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png",
-            "time": "14:00:00",
-            "date": "28/09",
-            "blv": "Chuối Kem",
-            "is_live": true,
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/995187_dbf7fc67_20260928.png?v=dbf7fc67",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-5cdf941771",
           "name": "Chinese Taipei vs South Korea | 17:00 28/09",
