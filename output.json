@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-f5e174df40",
-          "name": "Singapore vs Bangladesh | 16:00 28/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f5e174df40",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-f5e174df40",
-                  "name": "Singapore vs Bangladesh",
-                  "streams": [
-                    {
-                      "id": "st-f5e174df40",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8145c9578b",
-                          "name": "Chuối Ngao HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-7bc8393de1",
-                          "name": "Chuối Ngao FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA Asean Cup",
-            "team_a": "Singapore",
-            "team_b": "Bangladesh",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png",
-            "time": "16:00:00",
-            "date": "28/09",
-            "blv": "Chuối Ngao",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641708_401de68c_20260928.png?v=401de68c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-a7534186cc",
           "name": "Japan vs Venezuela | 17:25 28/09",
