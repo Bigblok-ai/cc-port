@@ -1211,100 +1211,11 @@
     },
     {
       "id": "cate_volleyball",
-      "name": "🏅 Volleyball (2 LIVE)",
+      "name": "🏅 Volleyball (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-43e8b2ee5b",
-          "name": "Hong Kong vs Việt Nam | 08:00 29/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-43e8b2ee5b",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-43e8b2ee5b",
-                  "name": "Hong Kong vs Việt Nam",
-                  "streams": [
-                    {
-                      "id": "st-43e8b2ee5b",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-abfd70baa3",
-                          "name": "Chuối Kem HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-dfdc991190",
-                          "name": "Chuối Kem FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Bóng Chuyền",
-            "team_a": "Hong Kong",
-            "team_b": "Việt Nam",
-            "logo_a": "https://media.chuoichientv.net/media/20260927_010540_94a01ee4.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png",
-            "time": "08:00:00",
-            "date": "29/09",
-            "blv": "Chuối Kem",
-            "is_live": true,
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/994688_7e72d6cc_20260929.png?v=7e72d6cc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-c21fdd500c",
           "name": "Philippines vs Chinese Taipei | 11:00 29/09",
