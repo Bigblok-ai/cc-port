@@ -133,11 +133,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-223c76a7ce",
-                          "name": "Chuối Sấy HD",
+                          "id": "lnk-396b735a0c",
+                          "name": "Chuối Chao HD",
                           "type": "hls",
                           "default": true,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisay/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -150,11 +150,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-ec9dab93cc",
-                          "name": "Chuối Sấy FHD",
+                          "id": "lnk-49d2690e46",
+                          "name": "Chuối Chao FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -181,7 +181,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png",
             "time": "16:00:00",
             "date": "29/09",
-            "blv": "Chuối Sấy",
+            "blv": "Chuối Chao",
             "is_live": false,
             "cate_type": "football"
           },
@@ -279,95 +279,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1583654_2c45fb84_20260929.png?v=2c45fb84",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-6d8f772778",
-          "name": "Japan W vs South Korea W | 17:30 29/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6d8f772778",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-6d8f772778",
-                  "name": "Japan W vs South Korea W",
-                  "streams": [
-                    {
-                      "id": "st-6d8f772778",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-396b735a0c",
-                          "name": "Chuối Chao HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-49d2690e46",
-                          "name": "Chuối Chao FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Women",
-            "team_a": "Japan W",
-            "team_b": "South Korea W",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_142845_9a7711e0.png",
-            "time": "17:30:00",
-            "date": "29/09",
-            "blv": "Chuối Chao",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1642008_a6227d32_20260929.png?v=a6227d32",
             "width": 1600,
             "height": 1200
           }
