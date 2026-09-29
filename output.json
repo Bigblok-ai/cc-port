@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-5e3800def1",
-          "name": "Korea DPR vs China W | 13:00 29/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5e3800def1",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-5e3800def1",
-                  "name": "Korea DPR vs China W",
-                  "streams": [
-                    {
-                      "id": "st-5e3800def1",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-396b735a0c",
-                          "name": "Chuối Chao HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-49d2690e46",
-                          "name": "Chuối Chao FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Women",
-            "team_a": "Korea DPR",
-            "team_b": "China W",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_142856_67f4ff9c.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",
-            "time": "13:00:00",
-            "date": "29/09",
-            "blv": "Chuối Chao",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1642007_66d2d1a3_20260929.png?v=66d2d1a3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-c4fa110113",
           "name": "Philippines vs Pakistan | 16:00 29/09",
