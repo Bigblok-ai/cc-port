@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -113,10 +113,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -133,8 +133,8 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-bc7b03b97a",
-                          "name": "Chuối Lá HD",
+                          "id": "lnk-15d5e70700",
+                          "name": "Chuối Lá HD1",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
@@ -150,11 +150,28 @@
                           ]
                         },
                         {
-                          "id": "lnk-c3722bb96b",
-                          "name": "Chuối Lá FHD",
+                          "id": "lnk-0001f270a8",
+                          "name": "Chuối Lá HD2",
                           "type": "hls",
                           "default": false,
                           "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e91447f6ff",
+                          "name": "Chuối Lá FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -182,7 +199,7 @@
             "time": "17:00:00",
             "date": "29/09",
             "blv": "Chuối Lá",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -434,8 +451,8 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-bc7b03b97a",
-                          "name": "Chuối Lá HD",
+                          "id": "lnk-15d5e70700",
+                          "name": "Chuối Lá HD1",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
@@ -451,11 +468,28 @@
                           ]
                         },
                         {
-                          "id": "lnk-c3722bb96b",
-                          "name": "Chuối Lá FHD",
+                          "id": "lnk-0001f270a8",
+                          "name": "Chuối Lá HD2",
                           "type": "hls",
                           "default": false,
                           "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e91447f6ff",
+                          "name": "Chuối Lá FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1033,7 +1067,7 @@
     },
     {
       "id": "cate_volleyball",
-      "name": "🏅 Volleyball (1 LIVE)",
+      "name": "🏅 Volleyball (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1135,10 +1169,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1204,7 +1238,7 @@
             "time": "17:00:00",
             "date": "29/09",
             "blv": "Chuối Kem",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "volleyball"
           },
           "image": {
