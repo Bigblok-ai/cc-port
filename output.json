@@ -107,7 +107,7 @@
         },
         {
           "id": "cc-c21fdd500c",
-          "name": "Philippines vs Chinese Taipei | 23:00 29/09",
+          "name": "Philippines vs Chinese Taipei | 11:00 29/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -179,7 +179,7 @@
             "team_b": "Chinese Taipei",
             "logo_a": "https://media.chuoichientv.net/media/20251215_200012_37b4c910.png",
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png",
-            "time": "23:00:00",
+            "time": "11:00:00",
             "date": "29/09",
             "blv": "Chuối Sấy",
             "is_live": false,
