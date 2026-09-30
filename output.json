@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -150,112 +150,6 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-15d5e70700",
-                          "name": "Chuối Lá HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0001f270a8",
-                          "name": "Chuối Lá HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e91447f6ff",
-                          "name": "Chuối Lá FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Africa Cup of Nations U20",
-            "team_a": "Morocco U20",
-            "team_b": "Algeria U20",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_142809_56274e6a.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134341_0114e58c.png",
-            "time": "20:30:00",
-            "date": "30/09",
-            "blv": "Chuối Lá",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641758_723e06c8_20260930.png?v=723e06c8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-e52d5294a8",
-          "name": "Vsetín vs Bohemians 1905 | 20:30 30/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e52d5294a8",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-e52d5294a8",
-                  "name": "Vsetín vs Bohemians 1905",
-                  "streams": [
-                    {
-                      "id": "st-e52d5294a8",
-                      "name": "CC",
-                      "stream_links": [
-                        {
                           "id": "lnk-aa79648022",
                           "name": "Chuối Tây HD1",
                           "type": "hls",
@@ -314,11 +208,11 @@
             }
           ],
           "org_metadata": {
-            "league": "Cup",
-            "team_a": "Vsetín",
-            "team_b": "Bohemians 1905",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_135754_18d94fc0.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134752_5d6f58d1.png",
+            "league": "Africa Cup of Nations U20",
+            "team_a": "Morocco U20",
+            "team_b": "Algeria U20",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_142809_56274e6a.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134341_0114e58c.png",
             "time": "20:30:00",
             "date": "30/09",
             "blv": "Chuối Tây",
@@ -329,7 +223,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636732_2dbdddfa_20260930.png?v=2dbdddfa",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641758_723e06c8_20260930.png?v=723e06c8",
             "width": 1600,
             "height": 1200
           }
