@@ -17,112 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "cc-25ce28463b",
-          "name": "Uzbekistan U23 vs Japan U23 | 17:30 30/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-25ce28463b",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-25ce28463b",
-                  "name": "Uzbekistan U23 vs Japan U23",
-                  "streams": [
-                    {
-                      "id": "st-25ce28463b",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-54fbd1fdde",
-                          "name": "Chuối Kem HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-fc824527c7",
-                          "name": "Chuối Kem HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-262f74ad58",
-                          "name": "Chuối Kem FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games",
-            "team_a": "Uzbekistan U23",
-            "team_b": "Japan U23",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_131446_7bd3d526.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_131443_f7c8e720.png",
-            "time": "17:30:00",
-            "date": "30/09",
-            "blv": "Chuối Kem",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1642011_23c72813_20260930.png?v=23c72813",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "cc-641345b3f6",
           "name": "Hong Kong vs Brunei | 19:00 30/09",
           "type": "single",
@@ -224,6 +118,112 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641713_1926bd79_20260930.png?v=1926bd79",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-31cba5e5a4",
+          "name": "Morocco U20 vs Algeria U20 | 20:30 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-31cba5e5a4",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-31cba5e5a4",
+                  "name": "Morocco U20 vs Algeria U20",
+                  "streams": [
+                    {
+                      "id": "st-31cba5e5a4",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-15d5e70700",
+                          "name": "Chuối Lá HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0001f270a8",
+                          "name": "Chuối Lá HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e91447f6ff",
+                          "name": "Chuối Lá FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Africa Cup of Nations U20",
+            "team_a": "Morocco U20",
+            "team_b": "Algeria U20",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_142809_56274e6a.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134341_0114e58c.png",
+            "time": "20:30:00",
+            "date": "30/09",
+            "blv": "Chuối Lá",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641758_723e06c8_20260930.png?v=723e06c8",
             "width": 1600,
             "height": 1200
           }
