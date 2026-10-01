@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-fb554cf505",
-          "name": "Argentina vs Bolivia | 07:00 01/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fb554cf505",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-fb554cf505",
-                  "name": "Argentina vs Bolivia",
-                  "streams": [
-                    {
-                      "id": "st-fb554cf505",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-aa79648022",
-                          "name": "Chuối Tây HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-36aaed7dd9",
-                          "name": "Chuối Tây HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-70e532cde3",
-                          "name": "Chuối Tây FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao Hữu Quốc Tế",
-            "team_a": "Argentina",
-            "team_b": "Bolivia",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132810_f9268071.png",
-            "time": "07:00:00",
-            "date": "01/10",
-            "blv": "Chuối Tây",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640511_61cdd287_20261001.png?v=61cdd287",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-0e18cb3853",
           "name": "Panama vs New Zealand | 13:10 01/10",
