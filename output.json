@@ -492,8 +492,8 @@
           }
         },
         {
-          "id": "cc-4750514489",
-          "name": "Santos Laguna W vs Puebla W | 06:00 03/10",
+          "id": "cc-885998b218",
+          "name": "Sao Paulo vs Santos | 06:00 03/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -507,15 +507,15 @@
           ],
           "sources": [
             {
-              "id": "src-4750514489",
+              "id": "src-885998b218",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-4750514489",
-                  "name": "Santos Laguna W vs Puebla W",
+                  "id": "ct-885998b218",
+                  "name": "Sao Paulo vs Santos",
                   "streams": [
                     {
-                      "id": "st-4750514489",
+                      "id": "st-885998b218",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -577,11 +577,11 @@
             }
           ],
           "org_metadata": {
-            "league": "VĐQG Nữ Mexico",
-            "team_a": "Santos Laguna W",
-            "team_b": "Puebla W",
-            "logo_a": "https://media.chuoichientv.net/media/20250916_004011_bb3475cd.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_143657_72f0bbb2.png",
+            "league": "VĐQG Brazil",
+            "team_a": "Sao Paulo",
+            "team_b": "Santos",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png",
             "time": "06:00:00",
             "date": "03/10",
             "blv": "Chuối Tây",
@@ -592,7 +592,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603381_92afea82_20261003.png?v=92afea82",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1492318_e2c92f88_20261003.png?v=e2c92f88",
             "width": 1600,
             "height": 1200
           }
