@@ -1427,11 +1427,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-96219b047b",
-                          "name": "Chuối Nhỏ HD1",
+                          "id": "lnk-aa79648022",
+                          "name": "Chuối Tây HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1444,11 +1444,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-706932a60e",
-                          "name": "Chuối Nhỏ HD2",
+                          "id": "lnk-36aaed7dd9",
+                          "name": "Chuối Tây HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1461,11 +1461,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-ceeb11f873",
-                          "name": "Chuối Nhỏ FHD",
+                          "id": "lnk-70e532cde3",
+                          "name": "Chuối Tây FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1492,7 +1492,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png",
             "time": "11:00:00",
             "date": "02/10",
-            "blv": "Chuối Nhỏ",
+            "blv": "Chuối Tây",
             "is_live": false,
             "cate_type": "volleyball"
           },
