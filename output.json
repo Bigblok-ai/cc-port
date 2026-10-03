@@ -1712,117 +1712,11 @@
     },
     {
       "id": "cate_volleyball",
-      "name": "🏅 Volleyball (2 LIVE)",
+      "name": "🏅 Volleyball (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-19d4701759",
-          "name": "Chinese Taipei vs Việt Nam | 17:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-19d4701759",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-19d4701759",
-                  "name": "Chinese Taipei vs Việt Nam",
-                  "streams": [
-                    {
-                      "id": "st-19d4701759",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-54fbd1fdde",
-                          "name": "Chuối Kem HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-fc824527c7",
-                          "name": "Chuối Kem HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-262f74ad58",
-                          "name": "Chuối Kem FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Bóng Chuyền",
-            "team_a": "Chinese Taipei",
-            "team_b": "Việt Nam",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png",
-            "time": "17:00:00",
-            "date": "03/10",
-            "blv": "Chuối Kem",
-            "is_live": true,
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/993804_712e7f52_20261003.png?v=712e7f52",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-3c1d7006ab",
           "name": "Japan vs Iran | 17:20 03/10",
