@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-ec244d9f3f",
-          "name": "Hong Kong vs Cambodia | 17:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ec244d9f3f",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-ec244d9f3f",
-                  "name": "Hong Kong vs Cambodia",
-                  "streams": [
-                    {
-                      "id": "st-ec244d9f3f",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96219b047b",
-                          "name": "Chuối Nhỏ HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-706932a60e",
-                          "name": "Chuối Nhỏ HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ceeb11f873",
-                          "name": "Chuối Nhỏ FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA Asean Cup",
-            "team_a": "Hong Kong",
-            "team_b": "Cambodia",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134317_1bd3a785.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132714_8f17ab4f.png",
-            "time": "17:00:00",
-            "date": "03/10",
-            "blv": "Chuối Nhỏ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1643350_f9045be2_20261003.png?v=f9045be2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-ed301f3fa4",
           "name": "U23 Hàn Quốc vs Japan U23 | 17:30 03/10",
@@ -468,11 +362,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-371745cb51",
-                          "name": "Chuối Ngao HD1",
+                          "id": "lnk-15d5e70700",
+                          "name": "Chuối Lá HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -485,11 +379,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-a4eb012ad3",
-                          "name": "Chuối Ngao HD2",
+                          "id": "lnk-0001f270a8",
+                          "name": "Chuối Lá HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -502,11 +396,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-7bc8393de1",
-                          "name": "Chuối Ngao FHD",
+                          "id": "lnk-e91447f6ff",
+                          "name": "Chuối Lá FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -533,7 +427,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132806_e0e97e34.png",
             "time": "21:00:00",
             "date": "03/10",
-            "blv": "Chuối Ngao",
+            "blv": "Chuối Lá",
             "is_live": false,
             "cate_type": "football"
           },
