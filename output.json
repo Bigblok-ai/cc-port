@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -118,112 +118,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1606684_b63114d0_20261004.png?v=b63114d0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-c322183ddb",
-          "name": "Deren vs Khovd | 15:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c322183ddb",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-c322183ddb",
-                  "name": "Deren vs Khovd",
-                  "streams": [
-                    {
-                      "id": "st-c322183ddb",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-371745cb51",
-                          "name": "Chuối Ngao HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-a4eb012ad3",
-                          "name": "Chuối Ngao HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-7bc8393de1",
-                          "name": "Chuối Ngao FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại Hạng Mông Cổ",
-            "team_a": "Deren",
-            "team_b": "Khovd",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_142515_21a2fe99.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_142517_25578a95.png",
-            "time": "15:00:00",
-            "date": "04/10",
-            "blv": "Chuối Ngao",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640421_578d6368_20261004.png?v=578d6368",
             "width": 1600,
             "height": 1200
           }
@@ -547,112 +441,6 @@
           }
         },
         {
-          "id": "cc-6d67e16a3d",
-          "name": "Comoros vs Senegal | 20:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6d67e16a3d",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-6d67e16a3d",
-                  "name": "Comoros vs Senegal",
-                  "streams": [
-                    {
-                      "id": "st-6d67e16a3d",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-aa79648022",
-                          "name": "Chuối Tây HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-36aaed7dd9",
-                          "name": "Chuối Tây HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-70e532cde3",
-                          "name": "Chuối Tây FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao Hữu Quốc Tế",
-            "team_a": "Comoros",
-            "team_b": "Senegal",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132804_f3da6d9a.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132755_ee492ea1.png",
-            "time": "20:00:00",
-            "date": "04/10",
-            "blv": "Chuối Tây",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640830_d16830e7_20261004.png?v=d16830e7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "cc-f24cfb5d81",
           "name": "Sporting Gijon vs Celta de Vigo II | 21:15 04/10",
           "type": "single",
@@ -680,11 +468,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-371745cb51",
-                          "name": "Chuối Ngao HD1",
+                          "id": "lnk-b86fc8933e",
+                          "name": "Trốc Tru HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -697,11 +485,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-a4eb012ad3",
-                          "name": "Chuối Ngao HD2",
+                          "id": "lnk-ca6424e649",
+                          "name": "Trốc Tru HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -714,11 +502,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-7bc8393de1",
-                          "name": "Chuối Ngao FHD",
+                          "id": "lnk-24863c2dbc",
+                          "name": "Trốc Tru FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -745,7 +533,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_140019_7bc14b50.png",
             "time": "21:15:00",
             "date": "04/10",
-            "blv": "Chuối Ngao",
+            "blv": "Trốc Tru",
             "is_live": false,
             "cate_type": "football"
           },
@@ -998,11 +786,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-b86fc8933e",
-                          "name": "Trốc Tru HD1",
+                          "id": "lnk-aa79648022",
+                          "name": "Chuối Tây HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1015,11 +803,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-ca6424e649",
-                          "name": "Trốc Tru HD2",
+                          "id": "lnk-36aaed7dd9",
+                          "name": "Chuối Tây HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1032,11 +820,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-24863c2dbc",
-                          "name": "Trốc Tru FHD",
+                          "id": "lnk-70e532cde3",
+                          "name": "Chuối Tây FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1063,7 +851,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125627_3a522956.png",
             "time": "23:30:00",
             "date": "04/10",
-            "blv": "Trốc Tru",
+            "blv": "Chuối Tây",
             "is_live": false,
             "cate_type": "football"
           },
