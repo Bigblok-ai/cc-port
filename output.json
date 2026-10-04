@@ -335,8 +335,8 @@
           }
         },
         {
-          "id": "cc-6d67e16a3d",
-          "name": "Comoros vs Senegal | 20:00 04/10",
+          "id": "cc-bfaa7bf55b",
+          "name": "West Ham W vs Chelsea W | 20:00 04/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -350,15 +350,15 @@
           ],
           "sources": [
             {
-              "id": "src-6d67e16a3d",
+              "id": "src-bfaa7bf55b",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-6d67e16a3d",
-                  "name": "Comoros vs Senegal",
+                  "id": "ct-bfaa7bf55b",
+                  "name": "West Ham W vs Chelsea W",
                   "streams": [
                     {
-                      "id": "st-6d67e16a3d",
+                      "id": "st-bfaa7bf55b",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -420,11 +420,11 @@
             }
           ],
           "org_metadata": {
-            "league": "Giao Hữu Quốc Tế",
-            "team_a": "Comoros",
-            "team_b": "Senegal",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132804_f3da6d9a.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132755_ee492ea1.png",
+            "league": "FA WSL",
+            "team_a": "West Ham W",
+            "team_b": "Chelsea W",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133730_8086a067.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133728_b5b0ed02.png",
             "time": "20:00:00",
             "date": "04/10",
             "blv": "Trốc Tru",
@@ -435,7 +435,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640830_d16830e7_20261004.png?v=d16830e7",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1607696_c9ab4e06_20261004.png?v=c9ab4e06",
             "width": 1600,
             "height": 1200
           }
