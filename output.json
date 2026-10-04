@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -123,30 +123,30 @@
           }
         },
         {
-          "id": "cc-78164ae114",
-          "name": "Necaxa W vs Cruz Azul W | 10:10 04/10",
+          "id": "cc-04ce77e184",
+          "name": "Consadole Sapporo vs Iwaki | 11:00 04/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-78164ae114",
+              "id": "src-04ce77e184",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-78164ae114",
-                  "name": "Necaxa W vs Cruz Azul W",
+                  "id": "ct-04ce77e184",
+                  "name": "Consadole Sapporo vs Iwaki",
                   "streams": [
                     {
-                      "id": "st-78164ae114",
+                      "id": "st-04ce77e184",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -208,22 +208,22 @@
             }
           ],
           "org_metadata": {
-            "league": "VĐQG Nữ Mexico",
-            "team_a": "Necaxa W",
-            "team_b": "Cruz Azul W",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_143656_72f0bbb2.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_143654_72f0bbb2.png",
-            "time": "10:10:00",
+            "league": "J2 League",
+            "team_a": "Consadole Sapporo",
+            "team_b": "Iwaki",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132407_f9072e21.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132430_b1ec8ce9.png",
+            "time": "11:00:00",
             "date": "04/10",
             "blv": "Chuối Kem",
-            "is_live": true,
+            "is_live": false,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603387_c784b281_20261004.png?v=c784b281",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1606681_ed3f6134_20261004.png?v=ed3f6134",
             "width": 1600,
             "height": 1200
           }
