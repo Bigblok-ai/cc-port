@@ -335,8 +335,8 @@
           }
         },
         {
-          "id": "cc-f24cfb5d81",
-          "name": "Sporting Gijon vs Celta de Vigo II | 21:15 04/10",
+          "id": "cc-6d67e16a3d",
+          "name": "Comoros vs Senegal | 20:00 04/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -350,15 +350,15 @@
           ],
           "sources": [
             {
-              "id": "src-f24cfb5d81",
+              "id": "src-6d67e16a3d",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-f24cfb5d81",
-                  "name": "Sporting Gijon vs Celta de Vigo II",
+                  "id": "ct-6d67e16a3d",
+                  "name": "Comoros vs Senegal",
                   "streams": [
                     {
-                      "id": "st-f24cfb5d81",
+                      "id": "st-6d67e16a3d",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -420,6 +420,112 @@
             }
           ],
           "org_metadata": {
+            "league": "Giao Hữu Quốc Tế",
+            "team_a": "Comoros",
+            "team_b": "Senegal",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132804_f3da6d9a.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132755_ee492ea1.png",
+            "time": "20:00:00",
+            "date": "04/10",
+            "blv": "Trốc Tru",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640830_d16830e7_20261004.png?v=d16830e7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-f24cfb5d81",
+          "name": "Sporting Gijon vs Celta de Vigo II | 21:15 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f24cfb5d81",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-f24cfb5d81",
+                  "name": "Sporting Gijon vs Celta de Vigo II",
+                  "streams": [
+                    {
+                      "id": "st-f24cfb5d81",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-371745cb51",
+                          "name": "Chuối Ngao HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-a4eb012ad3",
+                          "name": "Chuối Ngao HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-7bc8393de1",
+                          "name": "Chuối Ngao FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
             "league": "La Liga 2",
             "team_a": "Sporting Gijon",
             "team_b": "Celta de Vigo II",
@@ -427,7 +533,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_140019_7bc14b50.png",
             "time": "21:15:00",
             "date": "04/10",
-            "blv": "Trốc Tru",
+            "blv": "Chuối Ngao",
             "is_live": false,
             "cate_type": "football"
           },
