@@ -123,8 +123,8 @@
           }
         },
         {
-          "id": "cc-8d9225709f",
-          "name": "Havadar vs Pars Jonoubi JAM | 20:30 05/10",
+          "id": "cc-1b52c74e05",
+          "name": "Ukraine U21 vs Albania U21 | 20:30 05/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -138,15 +138,15 @@
           ],
           "sources": [
             {
-              "id": "src-8d9225709f",
+              "id": "src-1b52c74e05",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-8d9225709f",
-                  "name": "Havadar vs Pars Jonoubi JAM",
+                  "id": "ct-1b52c74e05",
+                  "name": "Ukraine U21 vs Albania U21",
                   "streams": [
                     {
-                      "id": "st-8d9225709f",
+                      "id": "st-1b52c74e05",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -208,11 +208,11 @@
             }
           ],
           "org_metadata": {
-            "league": "Azadegan League",
-            "team_a": "Havadar",
-            "team_b": "Pars Jonoubi JAM",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132920_6173468d.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132911_15ce9973.png",
+            "league": "Giao Hữu Quốc Tế",
+            "team_a": "Ukraine U21",
+            "team_b": "Albania U21",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134331_13901f48.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_145119_b2d2226a.png",
             "time": "20:30:00",
             "date": "05/10",
             "blv": "Chuối Ngao",
@@ -223,7 +223,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1632820_57966c02_20261005.png?v=57966c02",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640832_e95f123d_20261005.png?v=e95f123d",
             "width": 1600,
             "height": 1200
           }
