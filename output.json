@@ -123,8 +123,8 @@
           }
         },
         {
-          "id": "cc-7264d01eaa",
-          "name": "Algeria U20 vs Egypt U20 | 20:00 06/10",
+          "id": "cc-8e89657b1d",
+          "name": "Azerbaijan U21 vs Gibraltar U21 | 20:45 06/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -138,15 +138,15 @@
           ],
           "sources": [
             {
-              "id": "src-7264d01eaa",
+              "id": "src-8e89657b1d",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-7264d01eaa",
-                  "name": "Algeria U20 vs Egypt U20",
+                  "id": "ct-8e89657b1d",
+                  "name": "Azerbaijan U21 vs Gibraltar U21",
                   "streams": [
                     {
-                      "id": "st-7264d01eaa",
+                      "id": "st-8e89657b1d",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -208,12 +208,12 @@
             }
           ],
           "org_metadata": {
-            "league": "Africa Cup of Nations U20",
-            "team_a": "Algeria U20",
-            "team_b": "Egypt U20",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134341_0114e58c.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134341_5916abfa.png",
-            "time": "20:00:00",
+            "league": "UEFA U21 Championship - Qualification",
+            "team_a": "Azerbaijan U21",
+            "team_b": "Gibraltar U21",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_145121_ba37c392.png",
+            "logo_b": "https://media.chuoichientv.net/media/20250905_162110_7bb9fb3a.png",
+            "time": "20:45:00",
             "date": "06/10",
             "blv": "Chuối Nhỏ",
             "is_live": false,
@@ -223,113 +223,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641761_55ba3020_20261006.png?v=55ba3020",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-2a41d36426",
-          "name": "Congo DR U23 vs Mauritania U23 | 20:00 06/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2a41d36426",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-2a41d36426",
-                  "name": "Congo DR U23 vs Mauritania U23",
-                  "streams": [
-                    {
-                      "id": "st-2a41d36426",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-371745cb51",
-                          "name": "Chuối Ngao HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-a4eb012ad3",
-                          "name": "Chuối Ngao HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-7bc8393de1",
-                          "name": "Chuối Ngao FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CAF U23 Cup of Nations",
-            "team_a": "Congo DR U23",
-            "team_b": "Mauritania U23",
-            "logo_a": "https://media.api-sports.io/football/teams/17121.png",
-            "logo_b": "https://media.api-sports.io/football/teams/20552.png",
-            "time": "20:00:00",
-            "date": "06/10",
-            "blv": "Chuối Ngao",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1642265_9e33c3ae_20261006.png?v=9e33c3ae",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1350205_35579516_20261006.png?v=35579516",
             "width": 1600,
             "height": 1200
           }
@@ -436,6 +330,112 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1528951_b2849909_20261006.png?v=b2849909",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-0fa2a1fee1",
+          "name": "India vs Uruguay | 21:00 06/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0fa2a1fee1",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-0fa2a1fee1",
+                  "name": "India vs Uruguay",
+                  "streams": [
+                    {
+                      "id": "st-0fa2a1fee1",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-371745cb51",
+                          "name": "Chuối Ngao HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-a4eb012ad3",
+                          "name": "Chuối Ngao HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-7bc8393de1",
+                          "name": "Chuối Ngao FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao Hữu Quốc Tế",
+            "team_a": "India",
+            "team_b": "Uruguay",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132807_4c096ae9.png",
+            "time": "21:00:00",
+            "date": "06/10",
+            "blv": "Chuối Ngao",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638604_56c77571_20261006.png?v=56c77571",
             "width": 1600,
             "height": 1200
           }
