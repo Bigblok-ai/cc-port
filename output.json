@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-6c0b5a5f32",
-          "name": "Neftchi vs Xorazm | 21:00 07/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6c0b5a5f32",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-6c0b5a5f32",
-                  "name": "Neftchi vs Xorazm",
-                  "streams": [
-                    {
-                      "id": "st-6c0b5a5f32",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-15d5e70700",
-                          "name": "Chuối Lá HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0001f270a8",
-                          "name": "Chuối Lá HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e91447f6ff",
-                          "name": "Chuối Lá FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Uzbekistan",
-            "team_a": "Neftchi",
-            "team_b": "Xorazm",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_131730_66336252.png",
-            "time": "21:00:00",
-            "date": "07/10",
-            "blv": "Chuối Lá",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1516149_b7252f31_20261007.png?v=b7252f31",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-c4f46a7748",
           "name": "York United vs Supra du Quebec | 22:00 07/10",
@@ -517,12 +411,67 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
-                        },
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Brazil",
+            "team_a": "RB Bragantino",
+            "team_b": "Mirassol",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125541_3d20e7da.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125544_da876ca4.png",
+            "time": "05:30:00",
+            "date": "08/10",
+            "blv": "Chuối Tây",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1492392_377c8f36_20261007.png?v=377c8f36",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-5a40d6669f",
+          "name": "Internacional vs Corinthians | 05:30 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5a40d6669f",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-5a40d6669f",
+                  "name": "Internacional vs Corinthians",
+                  "streams": [
+                    {
+                      "id": "st-5a40d6669f",
+                      "name": "CC",
+                      "stream_links": [
                         {
                           "id": "lnk-b86fc8933e",
                           "name": "Trốc Tru HD1",
                           "type": "hls",
-                          "default": false,
+                          "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
                           "request_headers": [
                             {
@@ -578,13 +527,13 @@
           ],
           "org_metadata": {
             "league": "VĐQG Brazil",
-            "team_a": "RB Bragantino",
-            "team_b": "Mirassol",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125541_3d20e7da.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125544_da876ca4.png",
+            "team_a": "Internacional",
+            "team_b": "Corinthians",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125535_ec3a86e6.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125537_cd0ff28f.png",
             "time": "05:30:00",
             "date": "08/10",
-            "blv": "Chuối Tây, Trốc Tru",
+            "blv": "Trốc Tru",
             "is_live": false,
             "cate_type": "football"
           },
@@ -592,7 +541,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1492392_377c8f36_20261007.png?v=377c8f36",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1492395_5069103f_20261007.png?v=5069103f",
             "width": 1600,
             "height": 1200
           }
