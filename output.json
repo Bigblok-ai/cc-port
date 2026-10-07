@@ -17,112 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "cc-baafbe9bb4",
-          "name": "Sanfrecce Hiroshima vs Iwaki | 16:30 07/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-baafbe9bb4",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-baafbe9bb4",
-                  "name": "Sanfrecce Hiroshima vs Iwaki",
-                  "streams": [
-                    {
-                      "id": "st-baafbe9bb4",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-aa79648022",
-                          "name": "Chuối Tây HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-36aaed7dd9",
-                          "name": "Chuối Tây HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-70e532cde3",
-                          "name": "Chuối Tây FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cup Bóng Đá Nhật",
-            "team_a": "Sanfrecce Hiroshima",
-            "team_b": "Iwaki",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132408_a8809b85.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132430_b1ec8ce9.png",
-            "time": "16:30:00",
-            "date": "07/10",
-            "blv": "Chuối Tây",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1635589_7dc2b9fa_20261007.png?v=7dc2b9fa",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "cc-7773e6d14e",
           "name": "FC Tokyo vs Shonan Bellmare | 17:00 07/10",
           "type": "single",
@@ -342,10 +236,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -428,7 +322,7 @@
             "time": "19:00:00",
             "date": "07/10",
             "blv": "Chuối Ngao",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
