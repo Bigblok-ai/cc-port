@@ -229,112 +229,6 @@
           }
         },
         {
-          "id": "cc-d3c4b785d9",
-          "name": "Hai Phong vs Thanh Hóa | 18:00 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d3c4b785d9",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-d3c4b785d9",
-                  "name": "Hai Phong vs Thanh Hóa",
-                  "streams": [
-                    {
-                      "id": "st-d3c4b785d9",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e27b03ef2f",
-                          "name": "Chuối Chao HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e97f9e8cee",
-                          "name": "Chuối Chao HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-582600ada5",
-                          "name": "Chuối Chao FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V.League 1",
-            "team_a": "Hai Phong",
-            "team_b": "Thanh Hóa",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132402_2fa85175.png",
-            "logo_b": "https://media.chuoichientv.net/media/20250817_040540_cdc05b23.png",
-            "time": "18:00:00",
-            "date": "10/10",
-            "blv": "Chuối Chao",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1633903_8bf1897e_20261010.png?v=8bf1897e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "cc-662eb8e4fe",
           "name": "Nam Dinh vs Ninh Bình FC | 18:00 10/10",
           "type": "single",
@@ -468,11 +362,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-15d5e70700",
-                          "name": "Chuối Lá HD1",
+                          "id": "lnk-e27b03ef2f",
+                          "name": "Chuối Chao HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -485,11 +379,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-0001f270a8",
-                          "name": "Chuối Lá HD2",
+                          "id": "lnk-e97f9e8cee",
+                          "name": "Chuối Chao HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -502,11 +396,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-e91447f6ff",
-                          "name": "Chuối Lá FHD",
+                          "id": "lnk-582600ada5",
+                          "name": "Chuối Chao FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -584,7 +478,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130851_9f58f9f7.png",
             "time": "18:30:00",
             "date": "10/10",
-            "blv": "Chuối Lá, Trốc Tru",
+            "blv": "Chuối Chao, Trốc Tru",
             "is_live": false,
             "cate_type": "football"
           },
