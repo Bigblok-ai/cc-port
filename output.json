@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-21ee2d6702",
-          "name": "Al-Nassr vs Neftchi | 01:15 13/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-21ee2d6702",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-21ee2d6702",
-                  "name": "Al-Nassr vs Neftchi",
-                  "streams": [
-                    {
-                      "id": "st-21ee2d6702",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-15d5e70700",
-                          "name": "Chuối Lá HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0001f270a8",
-                          "name": "Chuối Lá HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e91447f6ff",
-                          "name": "Chuối Lá FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League",
-            "team_a": "Al-Nassr",
-            "team_b": "Neftchi",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png",
-            "time": "01:15:00",
-            "date": "13/10",
-            "blv": "Chuối Lá",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1629931_c417a812_20261013.png?v=c417a812",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-8d6cfdfac9",
           "name": "Chapecoense-sc vs Atletico Paranaense | 05:30 13/10",
