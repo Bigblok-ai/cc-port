@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-9bb0f95f31",
-          "name": "Thái Nguyên Nữ vs Hà Nội Nữ | 18:00 12/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9bb0f95f31",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-9bb0f95f31",
-                  "name": "Thái Nguyên Nữ vs Hà Nội Nữ",
-                  "streams": [
-                    {
-                      "id": "st-9bb0f95f31",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e27b03ef2f",
-                          "name": "Chuối Chao HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e97f9e8cee",
-                          "name": "Chuối Chao HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-582600ada5",
-                          "name": "Chuối Chao FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vô địch Quốc gia Nữ",
-            "team_a": "Thái Nguyên Nữ",
-            "team_b": "Hà Nội Nữ",
-            "logo_a": "https://media.chuoichientv.net/media/20250907_210026_2993064a.png",
-            "logo_b": "https://media.chuoichientv.net/media/20250903_205412_4a21521f.png",
-            "time": "18:00:00",
-            "date": "12/10",
-            "blv": "Chuối Chao",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/997642_a1a5afa5_20261012.png?v=a1a5afa5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-fe0349c925",
           "name": "Valladolid vs Albacete | 19:00 12/10",
