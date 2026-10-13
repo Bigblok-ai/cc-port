@@ -335,8 +335,8 @@
           }
         },
         {
-          "id": "cc-465095e96b",
-          "name": "Galatasaray U19 vs Barcelona U19 | 18:00 13/10",
+          "id": "cc-fd8c0bf158",
+          "name": "Bandırmaspor vs Sivasspor | 18:30 13/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -350,15 +350,15 @@
           ],
           "sources": [
             {
-              "id": "src-465095e96b",
+              "id": "src-fd8c0bf158",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-465095e96b",
-                  "name": "Galatasaray U19 vs Barcelona U19",
+                  "id": "ct-fd8c0bf158",
+                  "name": "Bandırmaspor vs Sivasspor",
                   "streams": [
                     {
-                      "id": "st-465095e96b",
+                      "id": "st-fd8c0bf158",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -420,12 +420,12 @@
             }
           ],
           "org_metadata": {
-            "league": "UEFA Youth League",
-            "team_a": "Galatasaray U19",
-            "team_b": "Barcelona U19",
-            "logo_a": "https://media.api-sports.io/football/teams/7900.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134407_0863f8f9.png",
-            "time": "18:00:00",
+            "league": "Hạng Nhất Thổ Nhĩ Kỳ",
+            "team_a": "Bandırmaspor",
+            "team_b": "Sivasspor",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125843_8b97318c.png",
+            "time": "18:30:00",
             "date": "13/10",
             "blv": "Chuối Lá",
             "is_live": false,
@@ -435,7 +435,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1637327_12bcb5cf_20261013.png?v=12bcb5cf",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1585780_ceb9e0ac_20261013.png?v=ceb9e0ac",
             "width": 1600,
             "height": 1200
           }
