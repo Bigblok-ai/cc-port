@@ -123,112 +123,6 @@
           }
         },
         {
-          "id": "cc-23fcc2015d",
-          "name": "Pohang Steelers vs Johor Darul Takzim FC | 17:00 13/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-23fcc2015d",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-23fcc2015d",
-                  "name": "Pohang Steelers vs Johor Darul Takzim FC",
-                  "streams": [
-                    {
-                      "id": "st-23fcc2015d",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96219b047b",
-                          "name": "Chuối Nhỏ HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-706932a60e",
-                          "name": "Chuối Nhỏ HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ceeb11f873",
-                          "name": "Chuối Nhỏ FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League",
-            "team_a": "Pohang Steelers",
-            "team_b": "Johor Darul Takzim FC",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133412_55a77d69.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133412_4bfd7b04.png",
-            "time": "17:00:00",
-            "date": "13/10",
-            "blv": "Chuối Nhỏ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1629935_a223c360_20261013.png?v=a223c360",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "cc-fd8c0bf158",
           "name": "Bandırmaspor vs Sivasspor | 18:30 13/10",
           "type": "single",
@@ -342,10 +236,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -428,7 +322,7 @@
             "time": "19:15:00",
             "date": "13/10",
             "blv": "Chuối Kem",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
