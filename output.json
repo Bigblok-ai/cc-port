@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-fd8c0bf158",
-          "name": "Bandırmaspor vs Sivasspor | 18:30 13/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fd8c0bf158",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-fd8c0bf158",
-                  "name": "Bandırmaspor vs Sivasspor",
-                  "streams": [
-                    {
-                      "id": "st-fd8c0bf158",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-15d5e70700",
-                          "name": "Chuối Lá HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0001f270a8",
-                          "name": "Chuối Lá HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e91447f6ff",
-                          "name": "Chuối Lá FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hạng Nhất Thổ Nhĩ Kỳ",
-            "team_a": "Bandırmaspor",
-            "team_b": "Sivasspor",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125843_8b97318c.png",
-            "time": "18:30:00",
-            "date": "13/10",
-            "blv": "Chuối Lá",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1585780_ceb9e0ac_20261013.png?v=ceb9e0ac",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-58bbf4e6b7",
           "name": "Buriram United vs Beijing Guoan | 19:15 13/10",
@@ -547,8 +441,8 @@
           }
         },
         {
-          "id": "cc-86e6c1b49b",
-          "name": "Sarıyer vs BB Bodrumspor | 21:00 13/10",
+          "id": "cc-d53d16c840",
+          "name": "National Bank of Egypt vs El Geish | 21:00 13/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -562,15 +456,15 @@
           ],
           "sources": [
             {
-              "id": "src-86e6c1b49b",
+              "id": "src-d53d16c840",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-86e6c1b49b",
-                  "name": "Sarıyer vs BB Bodrumspor",
+                  "id": "ct-d53d16c840",
+                  "name": "National Bank of Egypt vs El Geish",
                   "streams": [
                     {
-                      "id": "st-86e6c1b49b",
+                      "id": "st-d53d16c840",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -632,11 +526,11 @@
             }
           ],
           "org_metadata": {
-            "league": "Hạng Nhất Thổ Nhĩ Kỳ",
-            "team_a": "Sarıyer",
-            "team_b": "BB Bodrumspor",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125859_b0d078aa.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125846_83fcddf0.png",
+            "league": "Ngoại Hạng Ai Cập",
+            "team_a": "National Bank of Egypt",
+            "team_b": "El Geish",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_130130_1849a67a.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130125_26b2bc27.png",
             "time": "21:00:00",
             "date": "13/10",
             "blv": "Chuối Kem",
@@ -647,7 +541,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1585787_f57d7800_20261013.png?v=f57d7800",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1612256_afd3cc78_20261013.png?v=afd3cc78",
             "width": 1600,
             "height": 1200
           }
