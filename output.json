@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -230,16 +230,16 @@
         },
         {
           "id": "cc-0505c68c28",
-          "name": "Al-Duhail SC vs Al Shabab | 22:02 14/10",
+          "name": "Al-Duhail SC vs Al Shabab | 21:45 14/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -302,10 +302,10 @@
             "team_b": "Al Shabab",
             "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_130846_bd5e96a7.png",
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134004_fedeacc3.png",
-            "time": "22:02:00",
+            "time": "21:45:00",
             "date": "14/10",
             "blv": "Chuối To",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
