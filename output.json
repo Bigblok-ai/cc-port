@@ -858,7 +858,7 @@
       "channels": [
         {
           "id": "cc-6d02eea001",
-          "name": "Fenerbahce Women vs Goztepe Women | 23:00 14/10",
+          "name": "Fenerbahce Women vs Goztepe Women | 23:30 14/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -947,7 +947,7 @@
             "team_b": "Goztepe Women",
             "logo_a": "https://media.chuoichientv.net/media/20261013_145500_1deb6a3c.png",
             "logo_b": "https://media.chuoichientv.net/media/20261013_145500_b5b240d0.png",
-            "time": "23:00:00",
+            "time": "23:30:00",
             "date": "14/10",
             "blv": "Chuối Tây",
             "is_live": true,
