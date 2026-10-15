@@ -769,112 +769,6 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-371745cb51",
-                          "name": "Chuối Ngao HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-a4eb012ad3",
-                          "name": "Chuối Ngao HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-7bc8393de1",
-                          "name": "Chuối Ngao FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Europa League",
-            "team_a": "Lyon",
-            "team_b": "Crystal Palace",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125550_3a5b60eb.png",
-            "time": "23:45:00",
-            "date": "15/10",
-            "blv": "Chuối Ngao",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636293_65e1fbec_20261015.png?v=65e1fbec",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-2fa58e63f3",
-          "name": "Union St. Gilloise vs Real Sociedad | 23:45 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2fa58e63f3",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-2fa58e63f3",
-                  "name": "Union St. Gilloise vs Real Sociedad",
-                  "streams": [
-                    {
-                      "id": "st-2fa58e63f3",
-                      "name": "CC",
-                      "stream_links": [
-                        {
                           "id": "lnk-b86fc8933e",
                           "name": "Trốc Tru HD1",
                           "type": "hls",
@@ -934,10 +828,10 @@
           ],
           "org_metadata": {
             "league": "UEFA Europa League",
-            "team_a": "Union St. Gilloise",
-            "team_b": "Real Sociedad",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125530_a8277fe1.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125627_f23143f4.png",
+            "team_a": "Lyon",
+            "team_b": "Crystal Palace",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125510_354c7ad3.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125550_3a5b60eb.png",
             "time": "23:45:00",
             "date": "15/10",
             "blv": "Trốc Tru",
@@ -948,7 +842,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636328_0034bb17_20261015.png?v=0034bb17",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636293_65e1fbec_20261015.png?v=65e1fbec",
             "width": 1600,
             "height": 1200
           }
