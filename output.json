@@ -441,8 +441,8 @@
           }
         },
         {
-          "id": "cc-b8f05f2a7d",
-          "name": "Mardin BB vs Fatih Karagümrük | 21:00 15/10",
+          "id": "cc-9de30d5b32",
+          "name": "Andijan vs Qizilqum | 21:00 15/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -456,15 +456,15 @@
           ],
           "sources": [
             {
-              "id": "src-b8f05f2a7d",
+              "id": "src-9de30d5b32",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-b8f05f2a7d",
-                  "name": "Mardin BB vs Fatih Karagümrük",
+                  "id": "ct-9de30d5b32",
+                  "name": "Andijan vs Qizilqum",
                   "streams": [
                     {
-                      "id": "st-b8f05f2a7d",
+                      "id": "st-9de30d5b32",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -509,11 +509,11 @@
             }
           ],
           "org_metadata": {
-            "league": "Hạng Nhất Thổ Nhĩ Kỳ",
-            "team_a": "Mardin BB",
-            "team_b": "Fatih Karagümrük",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125922_f9d0fbe8.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125850_078e1090.png",
+            "league": "VĐQG Uzbekistan",
+            "team_a": "Andijan",
+            "team_b": "Qizilqum",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_131727_9cb5bb96.png",
             "time": "21:00:00",
             "date": "15/10",
             "blv": "Chuối To",
@@ -524,7 +524,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1585784_e7bf2fa6_20261015.png?v=e7bf2fa6",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1516153_8f6c4701_20261015.png?v=8f6c4701",
             "width": 1600,
             "height": 1200
           }
