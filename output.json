@@ -848,8 +848,8 @@
           }
         },
         {
-          "id": "cc-9ccacee191",
-          "name": "Brighton vs Kauno Žalgiris | 02:00 16/10",
+          "id": "cc-3617bc13aa",
+          "name": "Atalanta vs Pafos | 02:00 16/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -863,15 +863,15 @@
           ],
           "sources": [
             {
-              "id": "src-9ccacee191",
+              "id": "src-3617bc13aa",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-9ccacee191",
-                  "name": "Brighton vs Kauno Žalgiris",
+                  "id": "ct-3617bc13aa",
+                  "name": "Atalanta vs Pafos",
                   "streams": [
                     {
-                      "id": "st-9ccacee191",
+                      "id": "st-3617bc13aa",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -934,10 +934,10 @@
           ],
           "org_metadata": {
             "league": "UEFA Europa Conference League",
-            "team_a": "Brighton",
-            "team_b": "Kauno Žalgiris",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125550_d9b536ef.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132605_80083548.png",
+            "team_a": "Atalanta",
+            "team_b": "Pafos",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125603_d3cec98d.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132654_4b7828de.png",
             "time": "02:00:00",
             "date": "16/10",
             "blv": "Chuối Tây",
@@ -948,113 +948,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636396_9191f7b4_20261016.png?v=9191f7b4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-91a62fea1d",
-          "name": "FC Copenhagen vs SC Braga | 02:00 16/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-91a62fea1d",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-91a62fea1d",
-                  "name": "FC Copenhagen vs SC Braga",
-                  "streams": [
-                    {
-                      "id": "st-91a62fea1d",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-371745cb51",
-                          "name": "Chuối Ngao HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-a4eb012ad3",
-                          "name": "Chuối Ngao HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-7bc8393de1",
-                          "name": "Chuối Ngao FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Europa Conference League",
-            "team_a": "FC Copenhagen",
-            "team_b": "SC Braga",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_130611_87bcfaa1.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125616_ba3508c7.png",
-            "time": "02:00:00",
-            "date": "16/10",
-            "blv": "Chuối Ngao",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636406_e05407d3_20261016.png?v=e05407d3",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636382_856820b8_20261016.png?v=856820b8",
             "width": 1600,
             "height": 1200
           }
