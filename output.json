@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-bb15f55b92",
-          "name": "Kelantan Red Warrior FC vs Imigresen | 20:00 16/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bb15f55b92",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-bb15f55b92",
-                  "name": "Kelantan Red Warrior FC vs Imigresen",
-                  "streams": [
-                    {
-                      "id": "st-bb15f55b92",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-54fbd1fdde",
-                          "name": "Chuối Kem HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-fc824527c7",
-                          "name": "Chuối Kem HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-262f74ad58",
-                          "name": "Chuối Kem FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Malaysia",
-            "team_a": "Kelantan Red Warrior FC",
-            "team_b": "Imigresen",
-            "logo_a": "https://media.api-sports.io/football/teams/27373.png",
-            "logo_b": "https://media.api-sports.io/football/teams/10430.png",
-            "time": "20:00:00",
-            "date": "16/10",
-            "blv": "Chuối Kem",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1601140_a075cbd9_20261016.png?v=a075cbd9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-ffd71a65b9",
           "name": "Al-Qadisiyah FC vs Abha | 20:15 16/10",
@@ -212,30 +106,30 @@
           }
         },
         {
-          "id": "cc-f37375a3c7",
-          "name": "Oţelul vs Csikszereda | 22:00 16/10",
+          "id": "cc-de9c85cdd1",
+          "name": "Holstein Kiel vs Hertha BSC | 23:30 16/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-f37375a3c7",
+              "id": "src-de9c85cdd1",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-f37375a3c7",
-                  "name": "Oţelul vs Csikszereda",
+                  "id": "ct-de9c85cdd1",
+                  "name": "Holstein Kiel vs Hertha BSC",
                   "streams": [
                     {
-                      "id": "st-f37375a3c7",
+                      "id": "st-de9c85cdd1",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -297,22 +191,22 @@
             }
           ],
           "org_metadata": {
-            "league": "VĐQG Roma",
-            "team_a": "Oţelul",
-            "team_b": "Csikszereda",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133916_1151bcde.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133920_535af99e.png",
-            "time": "22:00:00",
+            "league": "Bundesliga 2",
+            "team_a": "Holstein Kiel",
+            "team_b": "Hertha BSC",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125559_6c094200.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130259_7b7cc6ff.png",
+            "time": "23:30:00",
             "date": "16/10",
             "blv": "Chuối Nhỏ",
-            "is_live": true,
+            "is_live": false,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1565274_d85b3bb0_20261016.png?v=d85b3bb0",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1576201_4efe99fd_20261016.png?v=4efe99fd",
             "width": 1600,
             "height": 1200
           }
