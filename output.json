@@ -212,8 +212,8 @@
           }
         },
         {
-          "id": "cc-14c7bb5636",
-          "name": "Al Riyadh vs Al-Hilal Saudi FC | 22:00 16/10",
+          "id": "cc-f37375a3c7",
+          "name": "Oţelul vs Csikszereda | 22:00 16/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -227,15 +227,15 @@
           ],
           "sources": [
             {
-              "id": "src-14c7bb5636",
+              "id": "src-f37375a3c7",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-14c7bb5636",
-                  "name": "Al Riyadh vs Al-Hilal Saudi FC",
+                  "id": "ct-f37375a3c7",
+                  "name": "Oţelul vs Csikszereda",
                   "streams": [
                     {
-                      "id": "st-14c7bb5636",
+                      "id": "st-f37375a3c7",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -297,11 +297,11 @@
             }
           ],
           "org_metadata": {
-            "league": "Saudi Pro League",
-            "team_a": "Al Riyadh",
-            "team_b": "Al-Hilal Saudi FC",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134007_30496d9e.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png",
+            "league": "VĐQG Roma",
+            "team_a": "Oţelul",
+            "team_b": "Csikszereda",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133916_1151bcde.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133920_535af99e.png",
             "time": "22:00:00",
             "date": "16/10",
             "blv": "Chuối Nhỏ",
@@ -312,7 +312,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603051_1283ae4d_20261016.png?v=1283ae4d",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1565274_d85b3bb0_20261016.png?v=d85b3bb0",
             "width": 1600,
             "height": 1200
           }
