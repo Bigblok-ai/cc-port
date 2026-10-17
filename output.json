@@ -680,11 +680,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-54fbd1fdde",
-                          "name": "Chuối Kem HD1",
+                          "id": "lnk-a8999ff4a3",
+                          "name": "Chuối Sấy HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -697,11 +697,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-fc824527c7",
-                          "name": "Chuối Kem HD2",
+                          "id": "lnk-9193bcd57f",
+                          "name": "Chuối Sấy HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -714,11 +714,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-262f74ad58",
-                          "name": "Chuối Kem FHD",
+                          "id": "lnk-ec9dab93cc",
+                          "name": "Chuối Sấy FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -745,7 +745,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125622_e607f942.png",
             "time": "02:00:00",
             "date": "18/10",
-            "blv": "Chuối Kem",
+            "blv": "Chuối Sấy",
             "is_live": false,
             "cate_type": "football"
           },
@@ -875,11 +875,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-a8999ff4a3",
-                          "name": "Chuối Sấy HD1",
+                          "id": "lnk-54fbd1fdde",
+                          "name": "Chuối Kem HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -892,11 +892,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-9193bcd57f",
-                          "name": "Chuối Sấy HD2",
+                          "id": "lnk-fc824527c7",
+                          "name": "Chuối Kem HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -909,11 +909,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-ec9dab93cc",
-                          "name": "Chuối Sấy FHD",
+                          "id": "lnk-262f74ad58",
+                          "name": "Chuối Kem FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -940,7 +940,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130440_bcff7572.png",
             "time": "09:00:00",
             "date": "18/10",
-            "blv": "Chuối Sấy",
+            "blv": "Chuối Kem",
             "is_live": false,
             "cate_type": "football"
           },
