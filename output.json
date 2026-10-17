@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-8b3ed13650",
-          "name": "Central Coast Mariners vs Newcastle Jets | 15:40 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8b3ed13650",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-8b3ed13650",
-                  "name": "Central Coast Mariners vs Newcastle Jets",
-                  "streams": [
-                    {
-                      "id": "st-8b3ed13650",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ebd9df999c",
-                          "name": "Chuối To HD",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-822ad47302",
-                          "name": "Chuối To FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "A-League",
-            "team_a": "Central Coast Mariners",
-            "team_b": "Newcastle Jets",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_130439_20e4bfd2.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130441_f1a2632a.png",
-            "time": "15:40:00",
-            "date": "17/10",
-            "blv": "Chuối To",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1593683_7cae3644_20261017.png?v=7cae3644",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-4e9492c9b8",
           "name": "Thanh Hóa vs Nam Dinh | 17:00 17/10",
