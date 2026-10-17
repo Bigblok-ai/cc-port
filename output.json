@@ -2195,7 +2195,7 @@
     },
     {
       "id": "cate_volleyball",
-      "name": "🏅 Volleyball",
+      "name": "🏅 Volleyball (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2208,10 +2208,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2294,7 +2294,7 @@
             "time": "16:35:00",
             "date": "17/10",
             "blv": "Chuối Tây",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "volleyball"
           },
           "image": {
