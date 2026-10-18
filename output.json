@@ -468,11 +468,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-e27b03ef2f",
-                          "name": "Chuối Chao HD1",
+                          "id": "lnk-96219b047b",
+                          "name": "Chuối Nhỏ HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -485,11 +485,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-e97f9e8cee",
-                          "name": "Chuối Chao HD2",
+                          "id": "lnk-706932a60e",
+                          "name": "Chuối Nhỏ HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -502,11 +502,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-582600ada5",
-                          "name": "Chuối Chao FHD",
+                          "id": "lnk-ceeb11f873",
+                          "name": "Chuối Nhỏ FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -533,7 +533,7 @@
             "logo_b": "https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png",
             "time": "18:00:00",
             "date": "18/10",
-            "blv": "Chuối Chao",
+            "blv": "Chuối Nhỏ",
             "is_live": false,
             "cate_type": "football"
           },
