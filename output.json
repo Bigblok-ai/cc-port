@@ -121,6 +121,1261 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "cc-29f01a9073",
+          "name": "Ulaangom City vs Khovd | 15:00 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-29f01a9073",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-29f01a9073",
+                  "name": "Ulaangom City vs Khovd",
+                  "streams": [
+                    {
+                      "id": "st-29f01a9073",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-aa79648022",
+                          "name": "Chuối Tây HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-36aaed7dd9",
+                          "name": "Chuối Tây HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-70e532cde3",
+                          "name": "Chuối Tây FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại Hạng Mông Cổ",
+            "team_a": "Ulaangom City",
+            "team_b": "Khovd",
+            "logo_a": "https://media.api-sports.io/football/teams/26667.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_142517_25578a95.png",
+            "time": "15:00:00",
+            "date": "19/10",
+            "blv": "Chuối Tây",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640428_534a1872_20261019.png?v=534a1872",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-a78fb92b75",
+          "name": "FarDu vs Metalourg | 17:00 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a78fb92b75",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-a78fb92b75",
+                  "name": "FarDu vs Metalourg",
+                  "streams": [
+                    {
+                      "id": "st-a78fb92b75",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e27b03ef2f",
+                          "name": "Chuối Chao HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e97f9e8cee",
+                          "name": "Chuối Chao HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-582600ada5",
+                          "name": "Chuối Chao FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Pro League A",
+            "team_a": "FarDu",
+            "team_b": "Metalourg",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_142658_72f0bbb2.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_131725_09716b66.png",
+            "time": "17:00:00",
+            "date": "19/10",
+            "blv": "Chuối Chao",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1531010_f0a96760_20261019.png?v=f0a96760",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-18477732ef",
+          "name": "TP. Hồ Chí Minh vs Viettel | 18:00 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-18477732ef",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-18477732ef",
+                  "name": "TP. Hồ Chí Minh vs Viettel",
+                  "streams": [
+                    {
+                      "id": "st-18477732ef",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a8999ff4a3",
+                          "name": "Chuối Sấy HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-9193bcd57f",
+                          "name": "Chuối Sấy HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ec9dab93cc",
+                          "name": "Chuối Sấy FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V.League 1",
+            "team_a": "TP. Hồ Chí Minh",
+            "team_b": "Viettel",
+            "logo_a": "https://media.chuoichientv.net/media/20260417_091125_e069e829.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png",
+            "time": "18:00:00",
+            "date": "19/10",
+            "blv": "Chuối Sấy",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1633913_08ca514e_20261019.png?v=08ca514e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-9d947b3b68",
+          "name": "Manisa BBSK vs Muğlaspor | 21:00 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9d947b3b68",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-9d947b3b68",
+                  "name": "Manisa BBSK vs Muğlaspor",
+                  "streams": [
+                    {
+                      "id": "st-9d947b3b68",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-54fbd1fdde",
+                          "name": "Chuối Kem HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-fc824527c7",
+                          "name": "Chuối Kem HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-262f74ad58",
+                          "name": "Chuối Kem FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Thổ Nhĩ Kỳ",
+            "team_a": "Manisa BBSK",
+            "team_b": "Muğlaspor",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125851_6850d073.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125925_b4a733b0.png",
+            "time": "21:00:00",
+            "date": "19/10",
+            "blv": "Chuối Kem",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1585796_9e622e43_20261019.png?v=9e622e43",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-aaff361b29",
+          "name": "El Gouna FC vs Smouha SC | 21:00 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-aaff361b29",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-aaff361b29",
+                  "name": "El Gouna FC vs Smouha SC",
+                  "streams": [
+                    {
+                      "id": "st-aaff361b29",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-96219b047b",
+                          "name": "Chuối Nhỏ HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-706932a60e",
+                          "name": "Chuối Nhỏ HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ceeb11f873",
+                          "name": "Chuối Nhỏ FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại Hạng Ai Cập",
+            "team_a": "El Gouna FC",
+            "team_b": "Smouha SC",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_130127_d5250566.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130126_bb68da1f.png",
+            "time": "21:00:00",
+            "date": "19/10",
+            "blv": "Chuối Nhỏ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1612259_21889a8e_20261019.png?v=21889a8e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-75f3b76c5e",
+          "name": "Al-Fayha vs Al-Ahli Jeddah | 22:05 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-75f3b76c5e",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-75f3b76c5e",
+                  "name": "Al-Fayha vs Al-Ahli Jeddah",
+                  "streams": [
+                    {
+                      "id": "st-75f3b76c5e",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ebd9df999c",
+                          "name": "Chuối To HD",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-822ad47302",
+                          "name": "Chuối To FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Pro League",
+            "team_a": "Al-Fayha",
+            "team_b": "Al-Ahli Jeddah",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134005_86951109.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133413_e6842fb5.png",
+            "time": "22:05:00",
+            "date": "19/10",
+            "blv": "Chuối To",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603057_349998b8_20261019.png?v=349998b8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-9f8385debc",
+          "name": "Monza vs Cagliari | 23:30 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9f8385debc",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-9f8385debc",
+                  "name": "Monza vs Cagliari",
+                  "streams": [
+                    {
+                      "id": "st-9f8385debc",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b86fc8933e",
+                          "name": "Trốc Tru HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ca6424e649",
+                          "name": "Trốc Tru HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-24863c2dbc",
+                          "name": "Trốc Tru FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Serie A",
+            "team_a": "Monza",
+            "team_b": "Cagliari",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125607_c0e38448.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125600_1f684e4e.png",
+            "time": "23:30:00",
+            "date": "19/10",
+            "blv": "Trốc Tru",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550153_16e5c5bb_20261019.png?v=16e5c5bb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-3432aed9ad",
+          "name": "Al-Hilal Saudi FC vs Al-Hazm | 01:00 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3432aed9ad",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-3432aed9ad",
+                  "name": "Al-Hilal Saudi FC vs Al-Hazm",
+                  "streams": [
+                    {
+                      "id": "st-3432aed9ad",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-96219b047b",
+                          "name": "Chuối Nhỏ HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-706932a60e",
+                          "name": "Chuối Nhỏ HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ceeb11f873",
+                          "name": "Chuối Nhỏ FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Pro League",
+            "team_a": "Al-Hilal Saudi FC",
+            "team_b": "Al-Hazm",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134009_2a638385.png",
+            "time": "01:00:00",
+            "date": "20/10",
+            "blv": "Chuối Nhỏ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603058_7f75d4e9_20261019.png?v=7f75d4e9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-01a8aa5166",
+          "name": "Parma vs Torino | 01:45 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-01a8aa5166",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-01a8aa5166",
+                  "name": "Parma vs Torino",
+                  "streams": [
+                    {
+                      "id": "st-01a8aa5166",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e27b03ef2f",
+                          "name": "Chuối Chao HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e97f9e8cee",
+                          "name": "Chuối Chao HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-582600ada5",
+                          "name": "Chuối Chao FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Serie A",
+            "team_a": "Parma",
+            "team_b": "Torino",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125606_8a506f33.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125604_aafec1fd.png",
+            "time": "01:45:00",
+            "date": "20/10",
+            "blv": "Chuối Chao",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550154_01123569_20261019.png?v=01123569",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-a0bd86e782",
+          "name": "Tottenham vs Coventry | 02:00 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a0bd86e782",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-a0bd86e782",
+                  "name": "Tottenham vs Coventry",
+                  "streams": [
+                    {
+                      "id": "st-a0bd86e782",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b86fc8933e",
+                          "name": "Trốc Tru HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ca6424e649",
+                          "name": "Trốc Tru HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-24863c2dbc",
+                          "name": "Trốc Tru FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại Hạng Anh",
+            "team_a": "Tottenham",
+            "team_b": "Coventry",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125548_a24442be.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130857_3064f92b.png",
+            "time": "02:00:00",
+            "date": "20/10",
+            "blv": "Trốc Tru",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557436_28743f21_20261019.png?v=28743f21",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-120aaf83ca",
+          "name": "Getafe vs Rayo Vallecano | 02:00 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-120aaf83ca",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-120aaf83ca",
+                  "name": "Getafe vs Rayo Vallecano",
+                  "streams": [
+                    {
+                      "id": "st-120aaf83ca",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-15d5e70700",
+                          "name": "Chuối Lá HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0001f270a8",
+                          "name": "Chuối Lá HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e91447f6ff",
+                          "name": "Chuối Lá FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Getafe",
+            "team_b": "Rayo Vallecano",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125626_e2044734.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125628_9b826173.png",
+            "time": "02:00:00",
+            "date": "20/10",
+            "blv": "Chuối Lá",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1570417_ac792383_20261019.png?v=ac792383",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-dd19afb228",
+          "name": "Corinthians vs Vitoria | 06:00 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dd19afb228",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-dd19afb228",
+                  "name": "Corinthians vs Vitoria",
+                  "streams": [
+                    {
+                      "id": "st-dd19afb228",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-aa79648022",
+                          "name": "Chuối Tây HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-36aaed7dd9",
+                          "name": "Chuối Tây HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-70e532cde3",
+                          "name": "Chuối Tây FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Brazil",
+            "team_a": "Corinthians",
+            "team_b": "Vitoria",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125537_cd0ff28f.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125539_69da02c8.png",
+            "time": "06:00:00",
+            "date": "20/10",
+            "blv": "Chuối Tây",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1492414_c57d49ae_20261019.png?v=c57d49ae",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
