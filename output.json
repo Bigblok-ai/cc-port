@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "cc-3221da1a69",
-          "name": "Công An Tp Hồ Chí Minh vs Viettel | 20:06 19/10",
+          "name": "Công An Tp Hồ Chí Minh vs Viettel | 18:00 19/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -107,7 +107,7 @@
             "team_b": "Viettel",
             "logo_a": "https://media.chuoichientv.net/media/20250912_084649_7f63f7fe.png",
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132405_d46c909a.png",
-            "time": "20:06:00",
+            "time": "18:00:00",
             "date": "19/10",
             "blv": "Chuối Sấy",
             "is_live": true,
