@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "cc-29f01a9073",
-          "name": "Ulaangom City vs Khovd | 15:00 19/10",
+          "name": "Wofoo Tai Po vs Southern District | 15:00 19/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -37,7 +37,7 @@
               "contents": [
                 {
                   "id": "ct-29f01a9073",
-                  "name": "Ulaangom City vs Khovd",
+                  "name": "Wofoo Tai Po vs Southern District",
                   "streams": [
                     {
                       "id": "st-29f01a9073",
@@ -102,9 +102,9 @@
             }
           ],
           "org_metadata": {
-            "league": "Ngoại Hạng Mông Cổ",
-            "team_a": "Ulaangom City",
-            "team_b": "Khovd",
+            "league": "Ngoại Hạng Hồng Kong",
+            "team_a": "Wofoo Tai Po",
+            "team_b": "Southern District",
             "logo_a": "https://media.api-sports.io/football/teams/26667.png",
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_142517_25578a95.png",
             "time": "15:00:00",
