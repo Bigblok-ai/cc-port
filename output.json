@@ -468,8 +468,8 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-371745cb51",
-                          "name": "Chuối Ngao HD1",
+                          "id": "lnk-26a12cf5c3",
+                          "name": "Chuối Già HD1",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8",
@@ -485,8 +485,8 @@
                           ]
                         },
                         {
-                          "id": "lnk-a4eb012ad3",
-                          "name": "Chuối Ngao HD2",
+                          "id": "lnk-0ddc894b0f",
+                          "name": "Chuối Già HD2",
                           "type": "hls",
                           "default": false,
                           "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8",
@@ -502,8 +502,8 @@
                           ]
                         },
                         {
-                          "id": "lnk-7bc8393de1",
-                          "name": "Chuối Ngao FHD",
+                          "id": "lnk-e18f6826c5",
+                          "name": "Chuối Già FHD",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8",
@@ -533,7 +533,7 @@
             "logo_b": "https://media.api-sports.io/football/teams/7944.png",
             "time": "21:00:00",
             "date": "20/10",
-            "blv": "Chuối Ngao",
+            "blv": "Chuối Già",
             "is_live": false,
             "cate_type": "football"
           },
