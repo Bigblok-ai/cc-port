@@ -123,8 +123,8 @@
           }
         },
         {
-          "id": "cc-e3140427f2",
-          "name": "Wadi Degla vs National Bank of Egypt | 22:00 20/10",
+          "id": "cc-1826c5d72a",
+          "name": "Al Diriyah vs Al Riyadh | 22:00 20/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -138,15 +138,15 @@
           ],
           "sources": [
             {
-              "id": "src-e3140427f2",
+              "id": "src-1826c5d72a",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-e3140427f2",
-                  "name": "Wadi Degla vs National Bank of Egypt",
+                  "id": "ct-1826c5d72a",
+                  "name": "Al Diriyah vs Al Riyadh",
                   "streams": [
                     {
-                      "id": "st-e3140427f2",
+                      "id": "st-1826c5d72a",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -208,11 +208,11 @@
             }
           ],
           "org_metadata": {
-            "league": "Ngoại Hạng Ai Cập",
-            "team_a": "Wadi Degla",
-            "team_b": "National Bank of Egypt",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_141659_628c1ec3.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130130_1849a67a.png",
+            "league": "Saudi Pro League",
+            "team_a": "Al Diriyah",
+            "team_b": "Al Riyadh",
+            "logo_a": "https://media.api-sports.io/football/teams/26738.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134007_30496d9e.png",
             "time": "22:00:00",
             "date": "20/10",
             "blv": "Trốc Tru",
@@ -223,7 +223,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1612263_d082db55_20261020.png?v=d082db55",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603054_64ba8691_20261020.png?v=64ba8691",
             "width": 1600,
             "height": 1200
           }
