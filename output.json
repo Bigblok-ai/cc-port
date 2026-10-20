@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "cc-ad3041ca20",
-          "name": "Adhyaksa vs Arema FC | 15:30 20/10",
+          "name": "Isenmulang Kalteng vs Malut United | 15:30 20/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -37,7 +37,7 @@
               "contents": [
                 {
                   "id": "ct-ad3041ca20",
-                  "name": "Adhyaksa vs Arema FC",
+                  "name": "Isenmulang Kalteng vs Malut United",
                   "streams": [
                     {
                       "id": "st-ad3041ca20",
@@ -103,10 +103,10 @@
           ],
           "org_metadata": {
             "league": "VĐQG Indonesia",
-            "team_a": "Adhyaksa",
-            "team_b": "Arema FC",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_140543_5edf4a37.png",
-            "logo_b": "https://media.chuoichientv.net/media/20260913_083933_ccd775e2.png",
+            "team_a": "Isenmulang Kalteng",
+            "team_b": "Malut United",
+            "logo_a": "https://media.chuoichientv.net/media/20261020_043332_0bb43b09.png",
+            "logo_b": "https://media.chuoichientv.net/media/20261020_043338_a9e747f0.png",
             "time": "15:30:00",
             "date": "20/10",
             "blv": "Chuối Sấy",
@@ -117,7 +117,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1622799_b61ac0ed_20261020.png?v=b61ac0ed",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1622799_0dfa1d4e_20261020.png?v=0dfa1d4e",
             "width": 1600,
             "height": 1200
           }
@@ -998,8 +998,8 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-371745cb51",
-                          "name": "Chuối Ngao HD1",
+                          "id": "lnk-26a12cf5c3",
+                          "name": "Chuối Già HD1",
                           "type": "hls",
                           "default": true,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8",
@@ -1015,8 +1015,8 @@
                           ]
                         },
                         {
-                          "id": "lnk-a4eb012ad3",
-                          "name": "Chuối Ngao HD2",
+                          "id": "lnk-0ddc894b0f",
+                          "name": "Chuối Già HD2",
                           "type": "hls",
                           "default": false,
                           "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8",
@@ -1032,8 +1032,8 @@
                           ]
                         },
                         {
-                          "id": "lnk-7bc8393de1",
-                          "name": "Chuối Ngao FHD",
+                          "id": "lnk-e18f6826c5",
+                          "name": "Chuối Già FHD",
                           "type": "hls",
                           "default": false,
                           "url": "https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8",
@@ -1063,7 +1063,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125654_4a65aad2.png",
             "time": "02:00:00",
             "date": "21/10",
-            "blv": "Chuối Ngao",
+            "blv": "Chuối Già",
             "is_live": false,
             "cate_type": "football"
           },
