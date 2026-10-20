@@ -256,11 +256,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-26a12cf5c3",
+                          "id": "lnk-b14bc05945",
                           "name": "Chuối Già HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -273,11 +273,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-0ddc894b0f",
+                          "id": "lnk-f242e0e358",
                           "name": "Chuối Già HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigia/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -290,11 +290,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-e18f6826c5",
+                          "id": "lnk-2a46d78baf",
                           "name": "Chuối Già FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -786,11 +786,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-26a12cf5c3",
+                          "id": "lnk-b14bc05945",
                           "name": "Chuối Già HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -803,11 +803,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-0ddc894b0f",
+                          "id": "lnk-f242e0e358",
                           "name": "Chuối Già HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigia/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -820,11 +820,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-e18f6826c5",
+                          "id": "lnk-2a46d78baf",
                           "name": "Chuối Già FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
