@@ -44,112 +44,6 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-aa79648022",
-                          "name": "Chuối Tây HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-36aaed7dd9",
-                          "name": "Chuối Tây HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-70e532cde3",
-                          "name": "Chuối Tây FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Indonesia",
-            "team_a": "Bali United",
-            "team_b": "Garudayaksa",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png",
-            "logo_b": "https://media.api-sports.io/football/teams/26645.png",
-            "time": "15:30:00",
-            "date": "21/10",
-            "blv": "Chuối Tây",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1622802_90332708_20261021.png?v=90332708",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-a6d19920fb",
-          "name": "Shimizu S-pulse vs Machida Zelvia | 17:00 21/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a6d19920fb",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-a6d19920fb",
-                  "name": "Shimizu S-pulse vs Machida Zelvia",
-                  "streams": [
-                    {
-                      "id": "st-a6d19920fb",
-                      "name": "CC",
-                      "stream_links": [
-                        {
                           "id": "lnk-54fbd1fdde",
                           "name": "Chuối Kem HD1",
                           "type": "hls",
@@ -208,6 +102,112 @@
             }
           ],
           "org_metadata": {
+            "league": "VĐQG Indonesia",
+            "team_a": "Bali United",
+            "team_b": "Garudayaksa",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png",
+            "logo_b": "https://media.api-sports.io/football/teams/26645.png",
+            "time": "15:30:00",
+            "date": "21/10",
+            "blv": "Chuối Kem",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1622802_90332708_20261021.png?v=90332708",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-a6d19920fb",
+          "name": "Shimizu S-pulse vs Machida Zelvia | 17:00 21/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a6d19920fb",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-a6d19920fb",
+                  "name": "Shimizu S-pulse vs Machida Zelvia",
+                  "streams": [
+                    {
+                      "id": "st-a6d19920fb",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-aa79648022",
+                          "name": "Chuối Tây HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-36aaed7dd9",
+                          "name": "Chuối Tây HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-70e532cde3",
+                          "name": "Chuối Tây FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
             "league": "J1 League",
             "team_a": "Shimizu S-pulse",
             "team_b": "Machida Zelvia",
@@ -215,7 +215,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132416_e9d110f2.png",
             "time": "17:00:00",
             "date": "21/10",
-            "blv": "Chuối Kem",
+            "blv": "Chuối Tây",
             "is_live": false,
             "cate_type": "football"
           },
