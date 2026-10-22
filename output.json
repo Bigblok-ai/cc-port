@@ -11,120 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "cc-bc601d8657",
-          "name": "Santos Laguna vs U.N.A.M. - Pumas | 10:00 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bc601d8657",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-bc601d8657",
-                  "name": "Santos Laguna vs U.N.A.M. - Pumas",
-                  "streams": [
-                    {
-                      "id": "st-bc601d8657",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a8999ff4a3",
-                          "name": "Chuối Sấy HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-9193bcd57f",
-                          "name": "Chuối Sấy HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ec9dab93cc",
-                          "name": "Chuối Sấy FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Mexico",
-            "team_a": "Santos Laguna",
-            "team_b": "U.N.A.M. - Pumas",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133838_4f6c2505.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133409_8be40e19.png",
-            "time": "10:00:00",
-            "date": "22/10",
-            "blv": "Chuối Sấy",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1551010_9050e2d1_20261022.png?v=9050e2d1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-5e717a15c8",
-          "name": "Persik Kediri vs PSS Sleman | 15:30 22/10",
+          "id": "cc-bb58e48aa6",
+          "name": "PSM Makassar vs Persebaya Surabaya | 15:30 22/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -138,15 +32,15 @@
           ],
           "sources": [
             {
-              "id": "src-5e717a15c8",
+              "id": "src-bb58e48aa6",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-5e717a15c8",
-                  "name": "Persik Kediri vs PSS Sleman",
+                  "id": "ct-bb58e48aa6",
+                  "name": "PSM Makassar vs Persebaya Surabaya",
                   "streams": [
                     {
-                      "id": "st-5e717a15c8",
+                      "id": "st-bb58e48aa6",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -209,10 +103,10 @@
           ],
           "org_metadata": {
             "league": "VĐQG Indonesia",
-            "team_a": "Persik Kediri",
-            "team_b": "PSS Sleman",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134620_da259809.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134619_ae32ec34.png",
+            "team_a": "PSM Makassar",
+            "team_b": "Persebaya Surabaya",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134616_ffeccce1.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134617_39c4ce6c.png",
             "time": "15:30:00",
             "date": "22/10",
             "blv": "Chuối Chao",
@@ -223,7 +117,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1622804_2a6b0391_20261022.png?v=2a6b0391",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1622805_d09218a9_20261022.png?v=d09218a9",
             "width": 1600,
             "height": 1200
           }
