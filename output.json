@@ -124,7 +124,7 @@
         },
         {
           "id": "cc-1774ce4078",
-          "name": "Văn Hiến vs Đồng Tháp | 17:00 22/10",
+          "name": "Văn Hiến vs Bình Minh Sài Gòn | 17:00 22/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -143,7 +143,7 @@
               "contents": [
                 {
                   "id": "ct-1774ce4078",
-                  "name": "Văn Hiến vs Đồng Tháp",
+                  "name": "Văn Hiến vs Bình Minh Sài Gòn",
                   "streams": [
                     {
                       "id": "st-1774ce4078",
@@ -210,9 +210,9 @@
           "org_metadata": {
             "league": "V.League 2",
             "team_a": "Văn Hiến",
-            "team_b": "Đồng Tháp",
+            "team_b": "Bình Minh Sài Gòn",
             "logo_a": "https://media.api-sports.io/football/teams/26603.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_135806_f9a41cc0.png",
+            "logo_b": "https://media.chuoichientv.net/media/20261022_090126_ee34d169.png",
             "time": "17:00:00",
             "date": "22/10",
             "blv": "Chuối Tây",
@@ -223,7 +223,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1634983_b90603f1_20261022.png?v=b90603f1",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1634983_ec40e417_20261022.png?v=ec40e417",
             "width": 1600,
             "height": 1200
           }
