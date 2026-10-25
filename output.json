@@ -1869,36 +1869,36 @@
     },
     {
       "id": "cate_volleyball",
-      "name": "🏅 Volleyball",
+      "name": "🏅 Volleyball (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "cc-5c14e418db",
-          "name": "Okayama Seagulls W vs Ageo W | 12:00 25/10",
+          "id": "cc-3cc8fa1b1b",
+          "name": "Gunma Bank Green Wings W vs Prestige Aranmare W | 11:05 25/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
             {
-              "id": "src-5c14e418db",
+              "id": "src-3cc8fa1b1b",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-5c14e418db",
-                  "name": "Okayama Seagulls W vs Ageo W",
+                  "id": "ct-3cc8fa1b1b",
+                  "name": "Gunma Bank Green Wings W vs Prestige Aranmare W",
                   "streams": [
                     {
-                      "id": "st-5c14e418db",
+                      "id": "st-3cc8fa1b1b",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -1961,21 +1961,21 @@
           ],
           "org_metadata": {
             "league": "Bóng Chuyền SEA V.LEAGUE",
-            "team_a": "Okayama Seagulls W",
-            "team_b": "Ageo W",
-            "logo_a": "https://media.chuoichientv.net/media/20251009_205314_04bcc920.png",
-            "logo_b": "https://media.chuoichientv.net/media/20251226_202442_3c2f246b.png",
-            "time": "12:00:00",
+            "team_a": "Gunma Bank Green Wings W",
+            "team_b": "Prestige Aranmare W",
+            "logo_a": "https://media.chuoichientv.net/media/20251011_220657_399c6a8e.png",
+            "logo_b": "https://media.chuoichientv.net/media/20251108_051806_c4fe2bec.png",
+            "time": "11:05:00",
             "date": "25/10",
             "blv": "Chuối Tây",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "volleyball"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/993981_1cbc1d25_20261025.png?v=1cbc1d25",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/998379_7837a3fa_20261025.png?v=7837a3fa",
             "width": 1600,
             "height": 1200
           }
