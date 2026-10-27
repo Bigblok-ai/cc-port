@@ -273,11 +273,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-f242e0e358",
+                          "id": "lnk-c65a624da2",
                           "name": "Chuối Già HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigia/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1015,11 +1015,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-f242e0e358",
+                          "id": "lnk-c65a624da2",
                           "name": "Chuối Già HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigia/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1333,11 +1333,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-f242e0e358",
+                          "id": "lnk-c65a624da2",
                           "name": "Chuối Già HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigia/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
