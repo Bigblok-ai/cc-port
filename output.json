@@ -547,8 +547,8 @@
           }
         },
         {
-          "id": "cc-a27e19c5e3",
-          "name": "Abha vs Al-Ittihad FC | 20:45 30/10",
+          "id": "cc-8efe0e9fc3",
+          "name": "Ha Noi vs Ninh Bình FC | 19:15 30/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -562,15 +562,15 @@
           ],
           "sources": [
             {
-              "id": "src-a27e19c5e3",
+              "id": "src-8efe0e9fc3",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-a27e19c5e3",
-                  "name": "Abha vs Al-Ittihad FC",
+                  "id": "ct-8efe0e9fc3",
+                  "name": "Ha Noi vs Ninh Bình FC",
                   "streams": [
                     {
-                      "id": "st-a27e19c5e3",
+                      "id": "st-8efe0e9fc3",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -632,12 +632,12 @@
             }
           ],
           "org_metadata": {
-            "league": "Saudi Pro League",
-            "team_a": "Abha",
-            "team_b": "Al-Ittihad FC",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134011_ddd85980.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134004_7d88a6fc.png",
-            "time": "20:45:00",
+            "league": "V.League 1",
+            "team_a": "Ha Noi",
+            "team_b": "Ninh Bình FC",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png",
+            "logo_b": "https://media.chuoichientv.net/media/20250912_195620_46ee0fc6.png",
+            "time": "19:15:00",
             "date": "30/10",
             "blv": "Chuối Chao",
             "is_live": false,
@@ -647,7 +647,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603071_8b9168b2_20261030.png?v=8b9168b2",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1633927_b7945028_20261030.png?v=b7945028",
             "width": 1600,
             "height": 1200
           }
