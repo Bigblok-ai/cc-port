@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-bce6a5aff9",
-          "name": "LE Havre vs Paris Saint Germain | 01:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bce6a5aff9",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-bce6a5aff9",
-                  "name": "LE Havre vs Paris Saint Germain",
-                  "streams": [
-                    {
-                      "id": "st-bce6a5aff9",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-15d5e70700",
-                          "name": "Chuối Lá HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0001f270a8",
-                          "name": "Chuối Lá HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e91447f6ff",
-                          "name": "Chuối Lá FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ligue 1",
-            "team_a": "LE Havre",
-            "team_b": "Paris Saint Germain",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125518_84b3457e.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125513_ca6329d9.png",
-            "time": "01:00:00",
-            "date": "31/10",
-            "blv": "Chuối Lá",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1552801_74719f3f_20261031.png?v=74719f3f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-7ff2854025",
           "name": "SV Elversberg vs FSV Mainz 05 | 02:30 31/10",
