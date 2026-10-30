@@ -759,8 +759,8 @@
           }
         },
         {
-          "id": "cc-34ba49c8ca",
-          "name": "Shakhtar Donetsk vs Obolon'-Brovar | 23:00 30/10",
+          "id": "cc-8d0cdf342c",
+          "name": "Konyaspor vs Galatasaray | 00:00 31/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -774,15 +774,15 @@
           ],
           "sources": [
             {
-              "id": "src-34ba49c8ca",
+              "id": "src-8d0cdf342c",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-34ba49c8ca",
-                  "name": "Shakhtar Donetsk vs Obolon'-Brovar",
+                  "id": "ct-8d0cdf342c",
+                  "name": "Konyaspor vs Galatasaray",
                   "streams": [
                     {
-                      "id": "st-34ba49c8ca",
+                      "id": "st-8d0cdf342c",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -844,13 +844,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Ngoại Hạng Ukraine",
-            "team_a": "Shakhtar Donetsk",
-            "team_b": "Obolon'-Brovar",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125646_c053c3d0.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125753_5ad48e1d.png",
-            "time": "23:00:00",
-            "date": "30/10",
+            "league": "VĐQG Thổ Nhĩ Kì",
+            "team_a": "Konyaspor",
+            "team_b": "Galatasaray",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125841_a59ad7fe.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125652_ed875292.png",
+            "time": "00:00:00",
+            "date": "31/10",
             "blv": "Chuối Kem",
             "is_live": false,
             "cate_type": "football"
@@ -859,14 +859,14 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1565519_d6566628_20261030.png?v=d6566628",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1584455_5cce6b91_20261030.png?v=5cce6b91",
             "width": 1600,
             "height": 1200
           }
         },
         {
-          "id": "cc-9bd2ce4ba8",
-          "name": "Al Shorta vs Newroz | 23:30 30/10",
+          "id": "cc-0b382c91ff",
+          "name": "Energie Cottbus vs VfL Bochum | 00:30 31/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -880,15 +880,15 @@
           ],
           "sources": [
             {
-              "id": "src-9bd2ce4ba8",
+              "id": "src-0b382c91ff",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-9bd2ce4ba8",
-                  "name": "Al Shorta vs Newroz",
+                  "id": "ct-0b382c91ff",
+                  "name": "Energie Cottbus vs VfL Bochum",
                   "streams": [
                     {
-                      "id": "st-9bd2ce4ba8",
+                      "id": "st-0b382c91ff",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -950,13 +950,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Iraqi League",
-            "team_a": "Al Shorta",
-            "team_b": "Newroz",
-            "logo_a": "https://media.api-sports.io/football/teams/28571.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_142830_bec0e205.png",
-            "time": "23:30:00",
-            "date": "30/10",
+            "league": "Bundesliga 2",
+            "team_a": "Energie Cottbus",
+            "team_b": "VfL Bochum",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_130309_8a836721.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125557_bab7d305.png",
+            "time": "00:30:00",
+            "date": "31/10",
             "blv": "Chuối Nhỏ",
             "is_live": false,
             "cate_type": "football"
@@ -965,7 +965,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1628024_6f068793_20261030.png?v=6f068793",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1576216_bf730117_20261030.png?v=bf730117",
             "width": 1600,
             "height": 1200
           }
