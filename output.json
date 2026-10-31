@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-048cb9c4b6",
-          "name": "Bournemouth vs Leeds | 22:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-048cb9c4b6",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-048cb9c4b6",
-                  "name": "Bournemouth vs Leeds",
-                  "streams": [
-                    {
-                      "id": "st-048cb9c4b6",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96219b047b",
-                          "name": "Chuối Nhỏ HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-706932a60e",
-                          "name": "Chuối Nhỏ HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ceeb11f873",
-                          "name": "Chuối Nhỏ FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại Hạng Anh",
-            "team_a": "Bournemouth",
-            "team_b": "Leeds",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125545_e668d998.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130851_9f58f9f7.png",
-            "time": "22:00:00",
-            "date": "31/10",
-            "blv": "Chuối Nhỏ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557448_04362576_20261031.png?v=04362576",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-5f3353e96d",
           "name": "Udinese vs AS Roma | 00:00 01/11",
@@ -223,7 +117,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550186_f66b9c38_20261031.png?v=f66b9c38",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550186_f66b9c38_20261101.png?v=f66b9c38",
             "width": 1600,
             "height": 1200
           }
@@ -329,7 +223,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557456_8ce0c802_20261031.png?v=8ce0c802",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557456_8ce0c802_20261101.png?v=8ce0c802",
             "width": 1600,
             "height": 1200
           }
@@ -435,7 +329,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1570435_5baf8611_20261031.png?v=5baf8611",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1570435_5baf8611_20261101.png?v=5baf8611",
             "width": 1600,
             "height": 1200
           }
@@ -541,7 +435,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1575203_6347a517_20261031.png?v=6347a517",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1575203_6347a517_20261101.png?v=6347a517",
             "width": 1600,
             "height": 1200
           }
@@ -647,7 +541,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550177_87b7dc26_20261031.png?v=87b7dc26",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550177_87b7dc26_20261101.png?v=87b7dc26",
             "width": 1600,
             "height": 1200
           }
@@ -680,11 +574,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-96219b047b",
-                          "name": "Chuối Nhỏ HD1",
+                          "id": "lnk-a8999ff4a3",
+                          "name": "Chuối Sấy HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -697,11 +591,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-706932a60e",
-                          "name": "Chuối Nhỏ HD2",
+                          "id": "lnk-9193bcd57f",
+                          "name": "Chuối Sấy HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -714,11 +608,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-ceeb11f873",
-                          "name": "Chuối Nhỏ FHD",
+                          "id": "lnk-ec9dab93cc",
+                          "name": "Chuối Sấy FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -745,7 +639,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125545_3735bd31.png",
             "time": "03:00:00",
             "date": "01/11",
-            "blv": "Chuối Nhỏ",
+            "blv": "Chuối Sấy",
             "is_live": false,
             "cate_type": "football"
           },
@@ -753,7 +647,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557447_c867d06d_20261031.png?v=c867d06d",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557447_c867d06d_20261101.png?v=c867d06d",
             "width": 1600,
             "height": 1200
           }
@@ -859,7 +753,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1570434_836ff677_20261031.png?v=836ff677",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1570434_836ff677_20261101.png?v=836ff677",
             "width": 1600,
             "height": 1200
           }
@@ -965,7 +859,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1593696_ce5ac887_20261031.png?v=ce5ac887",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1593696_ce5ac887_20261101.png?v=ce5ac887",
             "width": 1600,
             "height": 1200
           }
@@ -1071,7 +965,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1593697_30b9da93_20261031.png?v=30b9da93",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1593697_30b9da93_20261101.png?v=30b9da93",
             "width": 1600,
             "height": 1200
           }
@@ -1177,7 +1071,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1633926_06218681_20261031.png?v=06218681",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1633926_06218681_20261101.png?v=06218681",
             "width": 1600,
             "height": 1200
           }
@@ -1283,7 +1177,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550180_ff6cd866_20261031.png?v=ff6cd866",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550180_ff6cd866_20261101.png?v=ff6cd866",
             "width": 1600,
             "height": 1200
           }
@@ -1389,7 +1283,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/999461_d2a0fa99_20261031.png?v=d2a0fa99",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/999461_d2a0fa99_20261101.png?v=d2a0fa99",
             "width": 1600,
             "height": 1200
           }
@@ -1495,7 +1389,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1570438_8da8074a_20261031.png?v=8da8074a",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1570438_8da8074a_20261101.png?v=8da8074a",
             "width": 1600,
             "height": 1200
           }
@@ -1601,7 +1495,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550183_b2798f8f_20261031.png?v=b2798f8f",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550183_b2798f8f_20261101.png?v=b2798f8f",
             "width": 1600,
             "height": 1200
           }
@@ -1707,7 +1601,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1575207_a6b0e626_20261031.png?v=a6b0e626",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1575207_a6b0e626_20261101.png?v=a6b0e626",
             "width": 1600,
             "height": 1200
           }
@@ -1864,7 +1758,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1570440_cc0a957c_20261031.png?v=cc0a957c",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1570440_cc0a957c_20261101.png?v=cc0a957c",
             "width": 1600,
             "height": 1200
           }
@@ -2021,7 +1915,113 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557453_3424e384_20261031.png?v=3424e384",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557453_3424e384_20261101.png?v=3424e384",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-5456d5e85f",
+          "name": "Lecce vs Genoa | 00:00 02/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5456d5e85f",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-5456d5e85f",
+                  "name": "Lecce vs Genoa",
+                  "streams": [
+                    {
+                      "id": "st-5456d5e85f",
+                      "name": "CC",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a8999ff4a3",
+                          "name": "Chuối Sấy HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-9193bcd57f",
+                          "name": "Chuối Sấy HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-ec9dab93cc",
+                          "name": "Chuối Sấy FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Serie A",
+            "team_a": "Lecce",
+            "team_b": "Genoa",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125606_5147c1a2.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125601_0fe8ee77.png",
+            "time": "00:00:00",
+            "date": "02/11",
+            "blv": "Chuối Sấy",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550184_3ec0d886_20261101.png?v=3ec0d886",
             "width": 1600,
             "height": 1200
           }
@@ -2136,7 +2136,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/992322_a1a92688_20261031.png?v=a1a92688",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/992322_a1a92688_20261101.png?v=a1a92688",
             "width": 1600,
             "height": 1200
           }
