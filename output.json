@@ -362,6 +362,112 @@
                       "name": "CC",
                       "stream_links": [
                         {
+                          "id": "lnk-b14bc05945",
+                          "name": "Chuối Già HD1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c65a624da2",
+                          "name": "Chuối Già HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-2a46d78baf",
+                          "name": "Chuối Già FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V.League 1",
+            "team_a": "TP. Hồ Chí Minh",
+            "team_b": "Da Nang",
+            "logo_a": "https://media.chuoichientv.net/media/20260417_091125_e069e829.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png",
+            "time": "18:00:00",
+            "date": "01/11",
+            "blv": "Chuối Già",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1633926_06218681_20261101.png?v=06218681",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "cc-eb9dec2d0a",
+          "name": "Como vs Venezia | 18:30 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-eb9dec2d0a",
+              "name": "ChuoiChienTV",
+              "contents": [
+                {
+                  "id": "ct-eb9dec2d0a",
+                  "name": "Como vs Venezia",
+                  "streams": [
+                    {
+                      "id": "st-eb9dec2d0a",
+                      "name": "CC",
+                      "stream_links": [
+                        {
                           "id": "lnk-a8999ff4a3",
                           "name": "Chuối Sấy HD1",
                           "type": "hls",
@@ -420,12 +526,12 @@
             }
           ],
           "org_metadata": {
-            "league": "V.League 1",
-            "team_a": "TP. Hồ Chí Minh",
-            "team_b": "Da Nang",
-            "logo_a": "https://media.chuoichientv.net/media/20260417_091125_e069e829.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png",
-            "time": "18:00:00",
+            "league": "Serie A",
+            "team_a": "Como",
+            "team_b": "Venezia",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125607_2784433a.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png",
+            "time": "18:30:00",
             "date": "01/11",
             "blv": "Chuối Sấy",
             "is_live": false,
@@ -435,14 +541,14 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1633926_06218681_20261101.png?v=06218681",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550180_ff6cd866_20261101.png?v=ff6cd866",
             "width": 1600,
             "height": 1200
           }
         },
         {
-          "id": "cc-eb9dec2d0a",
-          "name": "Como vs Venezia | 18:30 01/11",
+          "id": "cc-04416c125d",
+          "name": "Getafe vs Sevilla | 20:00 01/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -456,15 +562,15 @@
           ],
           "sources": [
             {
-              "id": "src-eb9dec2d0a",
+              "id": "src-04416c125d",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-eb9dec2d0a",
-                  "name": "Como vs Venezia",
+                  "id": "ct-04416c125d",
+                  "name": "Getafe vs Sevilla",
                   "streams": [
                     {
-                      "id": "st-eb9dec2d0a",
+                      "id": "st-04416c125d",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -526,218 +632,6 @@
             }
           ],
           "org_metadata": {
-            "league": "Serie A",
-            "team_a": "Como",
-            "team_b": "Venezia",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125607_2784433a.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png",
-            "time": "18:30:00",
-            "date": "01/11",
-            "blv": "Chuối Lá",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550180_ff6cd866_20261101.png?v=ff6cd866",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-88dbf22fbc",
-          "name": "Hà Nội vs Ninh Binh | 19:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-88dbf22fbc",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-88dbf22fbc",
-                  "name": "Hà Nội vs Ninh Binh",
-                  "streams": [
-                    {
-                      "id": "st-88dbf22fbc",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b14bc05945",
-                          "name": "Chuối Già HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-c65a624da2",
-                          "name": "Chuối Già HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-2a46d78baf",
-                          "name": "Chuối Già FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V.League 1",
-            "team_a": "Hà Nội",
-            "team_b": "Ninh Binh",
-            "logo_a": "https://media.chuoichientv.net/media/20250913_223056_ad69588a.png",
-            "logo_b": "https://media.chuoichientv.net/media/20261031_095825_9853fdd5.png",
-            "time": "19:00:00",
-            "date": "01/11",
-            "blv": "Chuối Già",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/999461_d2a0fa99_20261101.png?v=d2a0fa99",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-04416c125d",
-          "name": "Getafe vs Sevilla | 20:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-04416c125d",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-04416c125d",
-                  "name": "Getafe vs Sevilla",
-                  "streams": [
-                    {
-                      "id": "st-04416c125d",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-aa79648022",
-                          "name": "Chuối Tây HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-36aaed7dd9",
-                          "name": "Chuối Tây HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-70e532cde3",
-                          "name": "Chuối Tây FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
             "league": "La Liga",
             "team_a": "Getafe",
             "team_b": "Sevilla",
@@ -745,7 +639,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125623_bcacccf3.png",
             "time": "20:00:00",
             "date": "01/11",
-            "blv": "Chuối Tây",
+            "blv": "Chuối Lá",
             "is_live": false,
             "cate_type": "football"
           },
