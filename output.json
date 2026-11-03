@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-d31480bd09",
-          "name": "Al-Hilal Saudi FC vs Shabab Al Ahli Dubai | 01:15 04/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d31480bd09",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-d31480bd09",
-                  "name": "Al-Hilal Saudi FC vs Shabab Al Ahli Dubai",
-                  "streams": [
-                    {
-                      "id": "st-d31480bd09",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-aa79648022",
-                          "name": "Chuối Tây HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-36aaed7dd9",
-                          "name": "Chuối Tây HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-70e532cde3",
-                          "name": "Chuối Tây FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League",
-            "team_a": "Al-Hilal Saudi FC",
-            "team_b": "Shabab Al Ahli Dubai",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125815_07a155b3.png",
-            "time": "01:15:00",
-            "date": "04/11",
-            "blv": "Chuối Tây",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1629972_bf36f9bb_20261104.png?v=bf36f9bb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-842fe42f7a",
           "name": "Atletico Madrid vs Bayern München | 03:00 04/11",
