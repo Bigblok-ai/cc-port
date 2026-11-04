@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -123,30 +123,30 @@
           }
         },
         {
-          "id": "cc-ca0fc492b3",
-          "name": "Nasaf W vs Beijing Beikong W | 21:30 04/11",
+          "id": "cc-3b042dd3e3",
+          "name": "Al Nasr vs Qatar SC | 22:00 04/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-ca0fc492b3",
+              "id": "src-3b042dd3e3",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-ca0fc492b3",
-                  "name": "Nasaf W vs Beijing Beikong W",
+                  "id": "ct-3b042dd3e3",
+                  "name": "Al Nasr vs Qatar SC",
                   "streams": [
                     {
-                      "id": "st-ca0fc492b3",
+                      "id": "st-3b042dd3e3",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -208,22 +208,22 @@
             }
           ],
           "org_metadata": {
-            "league": "AFC Women's Champions League",
-            "team_a": "Nasaf W",
-            "team_b": "Beijing Beikong W",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_150324_5a8ea383.png",
-            "logo_b": "https://media.api-sports.io/football/teams/28397.png",
-            "time": "21:30:00",
+            "league": "AGCFF Gulf Champions League",
+            "team_a": "Al Nasr",
+            "team_b": "Qatar SC",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125820_c575b9b4.png",
+            "logo_b": "https://media.chuoichientv.net/media/20260108_160007_86a3f33c.png",
+            "time": "22:00:00",
             "date": "04/11",
             "blv": "Chuối Nhỏ",
-            "is_live": true,
+            "is_live": false,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638237_cf899450_20261104.png?v=cf899450",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1645611_beb4f57f_20261104.png?v=beb4f57f",
             "width": 1600,
             "height": 1200
           }
