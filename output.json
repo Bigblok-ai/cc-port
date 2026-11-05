@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-11b1a895fe",
-          "name": "Lion City W vs Adelaide United | 18:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-11b1a895fe",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-11b1a895fe",
-                  "name": "Lion City W vs Adelaide United",
-                  "streams": [
-                    {
-                      "id": "st-11b1a895fe",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96219b047b",
-                          "name": "Chuối Nhỏ HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-706932a60e",
-                          "name": "Chuối Nhỏ HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ceeb11f873",
-                          "name": "Chuối Nhỏ FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Cup",
-            "team_a": "Lion City W",
-            "team_b": "Adelaide United",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_150318_8e73282b.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130442_7beb7455.png",
-            "time": "18:00:00",
-            "date": "05/11",
-            "blv": "Chuối Nhỏ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/998706_11fecce6_20261105.png?v=11fecce6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-94f8d4dd95",
           "name": "Kuching FA vs Gangwon FC | 19:15 05/11",
@@ -229,8 +123,8 @@
           }
         },
         {
-          "id": "cc-35859201af",
-          "name": "Pathum United vs Wofoo Tai Po | 19:15 05/11",
+          "id": "cc-b5f706db6f",
+          "name": "ATK Mohun Bagan vs Odisha | 21:00 05/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -244,121 +138,15 @@
           ],
           "sources": [
             {
-              "id": "src-35859201af",
+              "id": "src-b5f706db6f",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-35859201af",
-                  "name": "Pathum United vs Wofoo Tai Po",
+                  "id": "ct-b5f706db6f",
+                  "name": "ATK Mohun Bagan vs Odisha",
                   "streams": [
                     {
-                      "id": "st-35859201af",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a8999ff4a3",
-                          "name": "Chuối Sấy HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-9193bcd57f",
-                          "name": "Chuối Sấy HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ec9dab93cc",
-                          "name": "Chuối Sấy FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Cup",
-            "team_a": "Pathum United",
-            "team_b": "Wofoo Tai Po",
-            "logo_a": "https://media.chuoichientv.net/media/20250917_201116_6ee53167.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_130647_3a27cac2.png",
-            "time": "19:15:00",
-            "date": "05/11",
-            "blv": "Chuối Sấy",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1630403_e894c1ee_20261105.png?v=e894c1ee",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-6cd8fba1d2",
-          "name": "Bhutan vs Bangladesh | 21:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6cd8fba1d2",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-6cd8fba1d2",
-                  "name": "Bhutan vs Bangladesh",
-                  "streams": [
-                    {
-                      "id": "st-6cd8fba1d2",
+                      "id": "st-b5f706db6f",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -420,11 +208,11 @@
             }
           ],
           "org_metadata": {
-            "league": "SAFF Championship",
-            "team_a": "Bhutan",
-            "team_b": "Bangladesh",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134311_d070e820.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png",
+            "league": "Indian Super League",
+            "team_a": "ATK Mohun Bagan",
+            "team_b": "Odisha",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_134453_6703439b.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134733_a234547b.png",
             "time": "21:00:00",
             "date": "05/11",
             "blv": "Chuối Già",
@@ -435,7 +223,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1648703_291842ef_20261105.png?v=291842ef",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1642191_04be6c5e_20261105.png?v=04be6c5e",
             "width": 1600,
             "height": 1200
           }
