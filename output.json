@@ -124,7 +124,7 @@
         },
         {
           "id": "cc-752ce8bad8",
-          "name": "Querétaro W vs Toluca W | 08:06 06/11",
+          "name": "Cancun FC vs Piratas FC | 08:06 06/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -143,7 +143,7 @@
               "contents": [
                 {
                   "id": "ct-752ce8bad8",
-                  "name": "Querétaro W vs Toluca W",
+                  "name": "Cancun FC vs Piratas FC",
                   "streams": [
                     {
                       "id": "st-752ce8bad8",
@@ -208,11 +208,11 @@
             }
           ],
           "org_metadata": {
-            "league": "VĐQG Nữ Mexico",
-            "team_a": "Querétaro W",
-            "team_b": "Toluca W",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_143653_72f0bbb2.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_143658_72f0bbb2.png",
+            "league": "Hạng 2 Mexico",
+            "team_a": "Cancun FC",
+            "team_b": "Piratas FC",
+            "logo_a": "https://media.chuoichientv.net/media/20261106_011314_ad6c7259.png",
+            "logo_b": "https://media.chuoichientv.net/media/20261106_011319_f53708fb.png",
             "time": "08:06:00",
             "date": "06/11",
             "blv": "Trốc Tru",
@@ -223,7 +223,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603419_38b18273_20261106.png?v=38b18273",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603419_6567b5af_20261106.png?v=6567b5af",
             "width": 1600,
             "height": 1200
           }
