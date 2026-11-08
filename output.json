@@ -11,435 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-0b625f53bb",
-          "name": "Genoa vs AC Milan | 21:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0b625f53bb",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-0b625f53bb",
-                  "name": "Genoa vs AC Milan",
-                  "streams": [
-                    {
-                      "id": "st-0b625f53bb",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b14bc05945",
-                          "name": "Chuối Già HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-c65a624da2",
-                          "name": "Chuối Già HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-2a46d78baf",
-                          "name": "Chuối Già FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Serie A",
-            "team_a": "Genoa",
-            "team_b": "AC Milan",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125601_0fe8ee77.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",
-            "time": "21:00:00",
-            "date": "08/11",
-            "blv": "Chuối Già",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550190_af8cd8ab_20261108.png?v=af8cd8ab",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-8762e7dc0a",
-          "name": "Brighton vs Brentford | 21:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8762e7dc0a",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-8762e7dc0a",
-                  "name": "Brighton vs Brentford",
-                  "streams": [
-                    {
-                      "id": "st-8762e7dc0a",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-aa79648022",
-                          "name": "Chuối Tây HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-36aaed7dd9",
-                          "name": "Chuối Tây HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-70e532cde3",
-                          "name": "Chuối Tây FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại Hạng Anh",
-            "team_a": "Brighton",
-            "team_b": "Brentford",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125550_d9b536ef.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125551_69278a74.png",
-            "time": "21:00:00",
-            "date": "08/11",
-            "blv": "Chuối Tây",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557458_1711a78f_20261108.png?v=1711a78f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-488a56cd84",
-          "name": "Crystal Palace vs Liverpool | 21:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-488a56cd84",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-488a56cd84",
-                  "name": "Crystal Palace vs Liverpool",
-                  "streams": [
-                    {
-                      "id": "st-488a56cd84",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b86fc8933e",
-                          "name": "Trốc Tru HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ca6424e649",
-                          "name": "Trốc Tru HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-24863c2dbc",
-                          "name": "Trốc Tru FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại Hạng Anh",
-            "team_a": "Crystal Palace",
-            "team_b": "Liverpool",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125550_3a5b60eb.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png",
-            "time": "21:00:00",
-            "date": "08/11",
-            "blv": "Trốc Tru",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557459_03d746ea_20261108.png?v=03d746ea",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-c5298f2989",
-          "name": "Ipswich vs Bournemouth | 21:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c5298f2989",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-c5298f2989",
-                  "name": "Ipswich vs Bournemouth",
-                  "streams": [
-                    {
-                      "id": "st-c5298f2989",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-15d5e70700",
-                          "name": "Chuối Lá HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0001f270a8",
-                          "name": "Chuối Lá HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e91447f6ff",
-                          "name": "Chuối Lá FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại Hạng Anh",
-            "team_a": "Ipswich",
-            "team_b": "Bournemouth",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125551_1362c589.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125545_e668d998.png",
-            "time": "21:00:00",
-            "date": "08/11",
-            "blv": "Chuối Lá",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557462_a660555f_20261108.png?v=a660555f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-afd2df15b2",
           "name": "Sunderland vs Chelsea | 21:00 08/11",
@@ -660,10 +236,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -729,6 +305,108 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-b14bc05945",
+                          "name": "Chuối Già HD1",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c65a624da2",
+                          "name": "Chuối Già HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-2a46d78baf",
+                          "name": "Chuối Già FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-aa79648022",
+                          "name": "Chuối Tây HD1",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-36aaed7dd9",
+                          "name": "Chuối Tây HD2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-70e532cde3",
+                          "name": "Chuối Tây FHD",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://fhd-01.cctvsignal.xyz/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -745,8 +423,8 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png",
             "time": "23:30:00",
             "date": "08/11",
-            "blv": "Chuối Nhỏ",
-            "is_live": false,
+            "blv": "Chuối Già, Chuối Nhỏ, Chuối Tây",
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
