@@ -123,8 +123,8 @@
           }
         },
         {
-          "id": "cc-309bf5eb50",
-          "name": "Iceland U21 vs Greece U21 | 20:00 12/11",
+          "id": "cc-294804da16",
+          "name": "Scotland U21 vs Ukraine U21 | 20:00 12/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -138,15 +138,15 @@
           ],
           "sources": [
             {
-              "id": "src-309bf5eb50",
+              "id": "src-294804da16",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-309bf5eb50",
-                  "name": "Iceland U21 vs Greece U21",
+                  "id": "ct-294804da16",
+                  "name": "Scotland U21 vs Ukraine U21",
                   "streams": [
                     {
-                      "id": "st-309bf5eb50",
+                      "id": "st-294804da16",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -208,11 +208,11 @@
             }
           ],
           "org_metadata": {
-            "league": "UEFA U21 Championship - Qualification",
-            "team_a": "Iceland U21",
-            "team_b": "Greece U21",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_145126_a98f2608.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_145125_50474a26.png",
+            "league": "Giao Hữu Quốc Tế",
+            "team_a": "Scotland U21",
+            "team_b": "Ukraine U21",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_145132_b8b07bcf.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134331_13901f48.png",
             "time": "20:00:00",
             "date": "12/11",
             "blv": "Chuối Chao",
@@ -223,7 +223,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1645400_d528d021_20261112.png?v=d528d021",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1649010_d8c2d442_20261112.png?v=d8c2d442",
             "width": 1600,
             "height": 1200
           }
