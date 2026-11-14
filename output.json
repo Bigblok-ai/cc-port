@@ -123,8 +123,8 @@
           }
         },
         {
-          "id": "cc-e6448c4053",
-          "name": "Serbia U19 vs Azerbaijan U19 | 22:00 14/11",
+          "id": "cc-ae7b1750ff",
+          "name": "Portugal U17 vs Bulgaria U17 | 22:00 14/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -138,15 +138,15 @@
           ],
           "sources": [
             {
-              "id": "src-e6448c4053",
+              "id": "src-ae7b1750ff",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-e6448c4053",
-                  "name": "Serbia U19 vs Azerbaijan U19",
+                  "id": "ct-ae7b1750ff",
+                  "name": "Portugal U17 vs Bulgaria U17",
                   "streams": [
                     {
-                      "id": "st-e6448c4053",
+                      "id": "st-ae7b1750ff",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -208,11 +208,11 @@
             }
           ],
           "org_metadata": {
-            "league": "UEFA U19 Championship - Qualification",
-            "team_a": "Serbia U19",
-            "team_b": "Azerbaijan U19",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_144559_befd0f53.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_144603_7acd0dd5.png",
+            "league": "UEFA U17 Championship - Qualification",
+            "team_a": "Portugal U17",
+            "team_b": "Bulgaria U17",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_144545_dde261ec.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_144531_abb0ed43.png",
             "time": "22:00:00",
             "date": "14/11",
             "blv": "Chuối Sấy",
@@ -223,7 +223,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1635812_51fd6960_20261114.png?v=51fd6960",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1559485_bec33003_20261114.png?v=bec33003",
             "width": 1600,
             "height": 1200
           }
