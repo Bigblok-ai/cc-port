@@ -335,8 +335,8 @@
           }
         },
         {
-          "id": "cc-e02b722373",
-          "name": "Việt Nam vs South Korea | 15:30 14/11",
+          "id": "cc-90f2766866",
+          "name": "Indonesia U17 vs Cambodia U17 | 15:30 14/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -350,15 +350,15 @@
           ],
           "sources": [
             {
-              "id": "src-e02b722373",
+              "id": "src-90f2766866",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-e02b722373",
-                  "name": "Việt Nam vs South Korea",
+                  "id": "ct-90f2766866",
+                  "name": "Indonesia U17 vs Cambodia U17",
                   "streams": [
                     {
-                      "id": "st-e02b722373",
+                      "id": "st-90f2766866",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -420,11 +420,11 @@
             }
           ],
           "org_metadata": {
-            "league": "Giao Hữu Quốc Tế",
-            "team_a": "Việt Nam",
-            "team_b": "South Korea",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png",
+            "league": "AFC U17 Asian Cup",
+            "team_a": "Indonesia U17",
+            "team_b": "Cambodia U17",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_145025_cf293075.png",
+            "logo_b": "https://media.chuoichientv.net/media/20251123_190431_f997e729.png",
             "time": "15:30:00",
             "date": "14/11",
             "blv": "Chuối Tây",
@@ -435,7 +435,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/994292_a19c9a65_20261114.png?v=a19c9a65",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638018_4c6bd07e_20261114.png?v=4c6bd07e",
             "width": 1600,
             "height": 1200
           }
