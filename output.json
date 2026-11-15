@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-9d8be199f1",
-          "name": "Wellington Phoenix W vs Sydney FC W | 08:00 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9d8be199f1",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-9d8be199f1",
-                  "name": "Wellington Phoenix W vs Sydney FC W",
-                  "streams": [
-                    {
-                      "id": "st-9d8be199f1",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a8999ff4a3",
-                          "name": "Chuối Sấy HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-9193bcd57f",
-                          "name": "Chuối Sấy HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ec9dab93cc",
-                          "name": "Chuối Sấy FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "A-League Women",
-            "team_a": "Wellington Phoenix W",
-            "team_b": "Sydney FC W",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_133806_db6ab218.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_133801_53d90f93.png",
-            "time": "08:00:00",
-            "date": "15/11",
-            "blv": "Chuối Sấy",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1632125_fd94ced3_20261115.png?v=fd94ced3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-57f4253ab1",
           "name": "Guadalajara W vs Juárez W | 10:00 15/11",
@@ -2352,7 +2246,7 @@
     },
     {
       "id": "cate_volleyball",
-      "name": "🏅 Volleyball",
+      "name": "🏅 Volleyball (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2365,10 +2259,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2451,7 +2345,7 @@
             "time": "11:05:00",
             "date": "15/11",
             "blv": "Chuối Sấy",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "volleyball"
           },
           "image": {
