@@ -150,11 +150,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-54fbd1fdde",
-                          "name": "Chuối Kem HD1",
+                          "id": "lnk-b14bc05945",
+                          "name": "Chuối Già HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -167,11 +167,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-fc824527c7",
-                          "name": "Chuối Kem HD2",
+                          "id": "lnk-c65a624da2",
+                          "name": "Chuối Già HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -184,11 +184,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-262f74ad58",
-                          "name": "Chuối Kem FHD",
+                          "id": "lnk-2a46d78baf",
+                          "name": "Chuối Già FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -215,7 +215,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134259_9fd925e4.png",
             "time": "21:00:00",
             "date": "15/11",
-            "blv": "Chuối Kem",
+            "blv": "Chuối Già",
             "is_live": true,
             "cate_type": "football"
           },
