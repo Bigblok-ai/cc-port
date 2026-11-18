@@ -548,7 +548,7 @@
         },
         {
           "id": "cc-974f6916aa",
-          "name": "TP. Hồ Chí Minh vs Buriram United | 19:30 18/11",
+          "name": "TP. Hồ Chí Minh vs Buriram United | 18:00 18/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -637,7 +637,7 @@
             "team_b": "Buriram United",
             "logo_a": "https://media.chuoichientv.net/media/20260417_091125_e069e829.png",
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_131733_ebcabb99.png",
-            "time": "19:30:00",
+            "time": "18:00:00",
             "date": "18/11",
             "blv": "Chuối Già",
             "is_live": false,
