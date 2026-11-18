@@ -1210,11 +1210,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-0b70f9c446",
-                          "name": "Chuối Lửa HD1",
+                          "id": "lnk-a8999ff4a3",
+                          "name": "Chuối Sấy HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1227,11 +1227,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-61c9b0c462",
-                          "name": "Chuối Lửa HD2",
+                          "id": "lnk-9193bcd57f",
+                          "name": "Chuối Sấy HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1244,11 +1244,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-84c6ebfd3b",
-                          "name": "Chuối Lửa FHD",
+                          "id": "lnk-ec9dab93cc",
+                          "name": "Chuối Sấy FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1275,7 +1275,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125535_77dbb009.png",
             "time": "07:30:00",
             "date": "19/11",
-            "blv": "Chuối Lửa",
+            "blv": "Chuối Sấy",
             "is_live": false,
             "cate_type": "football"
           },
