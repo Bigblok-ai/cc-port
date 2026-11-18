@@ -229,8 +229,8 @@
           }
         },
         {
-          "id": "cc-8a34054199",
-          "name": "Portugalete vs Real Unión | 01:00 19/11",
+          "id": "cc-41aaf6488e",
+          "name": "Utebo vs Sabadell | 01:00 19/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -244,15 +244,15 @@
           ],
           "sources": [
             {
-              "id": "src-8a34054199",
+              "id": "src-41aaf6488e",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-8a34054199",
-                  "name": "Portugalete vs Real Unión",
+                  "id": "ct-41aaf6488e",
+                  "name": "Utebo vs Sabadell",
                   "streams": [
                     {
-                      "id": "st-8a34054199",
+                      "id": "st-41aaf6488e",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -315,10 +315,10 @@
           ],
           "org_metadata": {
             "league": "Copa del Rey",
-            "team_a": "Portugalete",
-            "team_b": "Real Unión",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_140047_fa0e8eb9.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_140020_e7ea5d2d.png",
+            "team_a": "Utebo",
+            "team_b": "Sabadell",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_135008_78e6132b.png",
+            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_142208_b0882924.png",
             "time": "01:00:00",
             "date": "19/11",
             "blv": "Chuối Tây",
@@ -329,7 +329,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1644369_138d530a_20261119.png?v=138d530a",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1644384_09d066d2_20261119.png?v=09d066d2",
             "width": 1600,
             "height": 1200
           }
