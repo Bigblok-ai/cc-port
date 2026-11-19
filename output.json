@@ -256,11 +256,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-b86fc8933e",
-                          "name": "Trốc Tru HD1",
+                          "id": "lnk-b14bc05945",
+                          "name": "Chuối Già HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -273,11 +273,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-ca6424e649",
-                          "name": "Trốc Tru HD2",
+                          "id": "lnk-c65a624da2",
+                          "name": "Chuối Già HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -290,11 +290,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-24863c2dbc",
-                          "name": "Trốc Tru FHD",
+                          "id": "lnk-2a46d78baf",
+                          "name": "Chuối Già FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -321,7 +321,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_132645_dead805a.png",
             "time": "03:00:00",
             "date": "20/11",
-            "blv": "Trốc Tru",
+            "blv": "Chuối Già",
             "is_live": false,
             "cate_type": "football"
           },
