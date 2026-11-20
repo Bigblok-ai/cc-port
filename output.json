@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "cc-e0bfa89e03",
-          "name": "Côte d'Ivoire U17 vs Uzbekistan U17 | 23:00 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e0bfa89e03",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-e0bfa89e03",
-                  "name": "Côte d'Ivoire U17 vs Uzbekistan U17",
-                  "streams": [
-                    {
-                      "id": "st-e0bfa89e03",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0b70f9c446",
-                          "name": "Chuối Lửa HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-61c9b0c462",
-                          "name": "Chuối Lửa HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-84c6ebfd3b",
-                          "name": "Chuối Lửa FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup - U17",
-            "team_a": "Côte d'Ivoire U17",
-            "team_b": "Uzbekistan U17",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_145015_02c15791.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_145022_6428879b.png",
-            "time": "23:00:00",
-            "date": "20/11",
-            "blv": "Chuối Lửa",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1546151_c4e0aaec_20261121.png?v=c4e0aaec",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "cc-e2c116fa9f",
           "name": "FC Rostov vs Krylia Sovetov | 23:30 20/11",
