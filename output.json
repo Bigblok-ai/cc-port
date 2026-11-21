@@ -17,112 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "cc-3e14bcfa90",
-          "name": "Newcastle vs Arsenal | 00:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3e14bcfa90",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-3e14bcfa90",
-                  "name": "Newcastle vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "st-3e14bcfa90",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-15d5e70700",
-                          "name": "Chuối Lá HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0001f270a8",
-                          "name": "Chuối Lá HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e91447f6ff",
-                          "name": "Chuối Lá FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại Hạng Anh",
-            "team_a": "Newcastle",
-            "team_b": "Arsenal",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_125545_2cdfd5d4.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png",
-            "time": "00:30:00",
-            "date": "22/11",
-            "blv": "Chuối Lá",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557475_784f7f5a_20261122.png?v=784f7f5a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "cc-ee72d00436",
           "name": "Sevilla vs Real Betis | 00:30 22/11",
           "type": "single",
@@ -236,10 +130,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -322,7 +216,7 @@
             "time": "02:45:00",
             "date": "22/11",
             "blv": "Trốc Tru",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
