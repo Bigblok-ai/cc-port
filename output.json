@@ -2140,7 +2140,7 @@
     },
     {
       "id": "cate_volleyball",
-      "name": "🏅 Volleyball (2 LIVE)",
+      "name": "🏅 Volleyball (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2247,112 +2247,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/999637_955c40ab_20261121.png?v=955c40ab",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "cc-eaf4787feb",
-          "name": "Toray Arrows W vs Okayama Seagulls W | 11:05 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-eaf4787feb",
-              "name": "ChuoiChienTV",
-              "contents": [
-                {
-                  "id": "ct-eaf4787feb",
-                  "name": "Toray Arrows W vs Okayama Seagulls W",
-                  "streams": [
-                    {
-                      "id": "st-eaf4787feb",
-                      "name": "CC",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0b70f9c446",
-                          "name": "Chuối Lửa HD1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-61c9b0c462",
-                          "name": "Chuối Lửa HD2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-84c6ebfd3b",
-                          "name": "Chuối Lửa FHD",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://fhd-01.cctvsignal.xyz/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "SV.League W",
-            "team_a": "Toray Arrows W",
-            "team_b": "Okayama Seagulls W",
-            "logo_a": "https://media.chuoichientv.net/media/20251127_172902_3206c75f.png",
-            "logo_b": "https://media.chuoichientv.net/media/20251009_205314_04bcc920.png",
-            "time": "11:05:00",
-            "date": "21/11",
-            "blv": "Chuối Lửa",
-            "is_live": true,
-            "cate_type": "volleyball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/992374_73298917_20261121.png?v=73298917",
             "width": 1600,
             "height": 1200
           }
