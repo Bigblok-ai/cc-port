@@ -124,7 +124,7 @@
         },
         {
           "id": "cc-fd1431f08c",
-          "name": "Persiku Kudus vs PSIM Yogyakarta | 15:30 25/11",
+          "name": "Batavia FC vs Pesik Kuningan | 15:30 25/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -143,7 +143,7 @@
               "contents": [
                 {
                   "id": "ct-fd1431f08c",
-                  "name": "Persiku Kudus vs PSIM Yogyakarta",
+                  "name": "Batavia FC vs Pesik Kuningan",
                   "streams": [
                     {
                       "id": "st-fd1431f08c",
@@ -209,10 +209,10 @@
           ],
           "org_metadata": {
             "league": "League Cup Indonesia",
-            "team_a": "Persiku Kudus",
-            "team_b": "PSIM Yogyakarta",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_140545_b2214cbb.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_140537_8be207a1.png",
+            "team_a": "Batavia FC",
+            "team_b": "Pesik Kuningan",
+            "logo_a": "https://media.chuoichientv.net/media/20261125_083956_84a39aa9.jpg",
+            "logo_b": "https://media.chuoichientv.net/media/20261125_084008_28e22947.jpg",
             "time": "15:30:00",
             "date": "25/11",
             "blv": "Chuối Lửa",
@@ -223,7 +223,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1648382_76661ead_20261125.png?v=76661ead",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1648382_e2f7a0f5_20261125.png?v=e2f7a0f5",
             "width": 1600,
             "height": 1200
           }
