@@ -123,8 +123,8 @@
           }
         },
         {
-          "id": "cc-60b01b47c1",
-          "name": "Denmark U17 vs Argentina U17 | 22:30 25/11",
+          "id": "cc-b63572c826",
+          "name": "Australia U17 vs Mozambique U17 | 22:30 25/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -138,15 +138,15 @@
           ],
           "sources": [
             {
-              "id": "src-60b01b47c1",
+              "id": "src-b63572c826",
               "name": "ChuoiChienTV",
               "contents": [
                 {
-                  "id": "ct-60b01b47c1",
-                  "name": "Denmark U17 vs Argentina U17",
+                  "id": "ct-b63572c826",
+                  "name": "Australia U17 vs Mozambique U17",
                   "streams": [
                     {
-                      "id": "st-60b01b47c1",
+                      "id": "st-b63572c826",
                       "name": "CC",
                       "stream_links": [
                         {
@@ -209,10 +209,10 @@
           ],
           "org_metadata": {
             "league": "World Cup - U17",
-            "team_a": "Denmark U17",
-            "team_b": "Argentina U17",
-            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_144533_426eb2ea.png",
-            "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_145005_8b725321.png",
+            "team_a": "Australia U17",
+            "team_b": "Mozambique U17",
+            "logo_a": "https://media.chuoichientv.net/media/uploads/20250623_145018_2a12c2b6.png",
+            "logo_b": "https://media.api-sports.io/football/teams/27742.png",
             "time": "22:30:00",
             "date": "25/11",
             "blv": "Chuối Nhỏ",
@@ -223,7 +223,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1546190_35f1e269_20261125.png?v=35f1e269",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1546327_d0087910_20261125.png?v=d0087910",
             "width": 1600,
             "height": 1200
           }
