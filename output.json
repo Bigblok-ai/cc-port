@@ -256,11 +256,11 @@
                       "name": "CC",
                       "stream_links": [
                         {
-                          "id": "lnk-b14bc05945",
-                          "name": "Chuối Già HD1",
+                          "id": "lnk-0b70f9c446",
+                          "name": "Chuối Lửa HD1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -273,11 +273,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-c65a624da2",
-                          "name": "Chuối Già HD2",
+                          "id": "lnk-61c9b0c462",
+                          "name": "Chuối Lửa HD2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -290,11 +290,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-2a46d78baf",
-                          "name": "Chuối Già FHD",
+                          "id": "lnk-84c6ebfd3b",
+                          "name": "Chuối Lửa FHD",
                           "type": "hls",
                           "default": false,
-                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8",
+                          "url": "https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -321,7 +321,7 @@
             "logo_b": "https://media.chuoichientv.net/media/uploads/20250623_134005_86951109.png",
             "time": "21:20:00",
             "date": "27/11",
-            "blv": "Chuối Già",
+            "blv": "Chuối Lửa",
             "is_live": true,
             "cate_type": "football"
           },
